@@ -37,11 +37,20 @@ except ImportError:
 
 try:
     import aiohttp
+from fastapi import FastAPI
+import uvicorn
+
 except ImportError:  # pragma: no cover
     aiohttp = None
 
 
 router = Router()
+
+app = FastAPI()
+@app.get("/")
+async def health():
+    return {"status": "ok"}
+
 
 OWNER_ID = 8342366022
 ACCESS_STORE_PATH = Path(__file__).parent / "access_store.json"
@@ -1404,8 +1413,25 @@ async def run() -> None:
             await HTTP_SESSION.close()
 
 
+
 def main() -> int:
-    asyncio.run(run())
+    port = int(os.environ.get("PORT", 10000))
+
+    async def start():
+        config = uvicorn.Config(
+            app,
+            host="0.0.0.0",
+            port=port,
+            log_level="info"
+        )
+        server = uvicorn.Server(config)
+
+        await asyncio.gather(
+            server.serve(),
+            run()
+        )
+
+    asyncio.run(start())
     return 0
 
 

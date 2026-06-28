@@ -1413,7 +1413,6 @@ async def run() -> None:
             await HTTP_SESSION.close()
 
 
-
 def main() -> int:
     port = int(os.environ.get("PORT", 10000))
 
@@ -1424,6 +1423,7 @@ def main() -> int:
             port=port,
             log_level="info"
         )
+
         server = uvicorn.Server(config)
 
         await asyncio.gather(

@@ -1,0 +1,912 @@
+2026-06-21 16:36:17,281 [INFO] Application startup complete.
+2026-06-21 16:36:17,283 [INFO] Vercel SMS Polling loop started
+2026-06-21 16:39:03,149 [INFO] Initialized Vercel cursor to timestamp 1782039259623 without sending 8 historical messages.
+2026-06-21 16:43:24,429 [INFO] Application startup complete.
+2026-06-21 16:43:24,432 [INFO] Vercel SMS Polling loop started
+2026-06-21 16:43:24,461 [INFO] Application shutdown complete.
+2026-06-21 16:43:45,024 [INFO] Application startup complete.
+2026-06-21 16:43:45,024 [INFO] Vercel SMS Polling loop started
+2026-06-21 16:45:38,692 [INFO] Application startup complete.
+2026-06-21 16:45:38,693 [INFO] Vercel SMS Polling loop started
+2026-06-21 16:45:38,700 [INFO] Application shutdown complete.
+2026-06-21 16:45:59,968 [INFO] Application startup complete.
+2026-06-21 16:45:59,968 [INFO] Vercel SMS Polling loop started
+2026-06-21 16:46:40,033 [INFO] Initialized Vercel cursor to timestamp 1782039259623 without sending 8 historical messages.
+2026-06-21 16:49:07,273 [INFO] Application startup complete.
+2026-06-21 16:49:07,273 [INFO] Vercel SMS Polling loop started
+2026-06-21 16:49:07,282 [INFO] Application shutdown complete.
+2026-06-21 16:49:19,709 [INFO] Application startup complete.
+2026-06-21 16:49:19,709 [INFO] Vercel SMS Polling loop started
+2026-06-21 16:51:29,697 [INFO] Fetched 1 new records from Vercel
+2026-06-21 16:51:29,697 [INFO] Forwarding SMS from Vercel: To=8291154628, Text=buZohCRsp+idv5AapefQm4skY4EGlZrYw5AG/PhM4p7sCvNbjhHjxjWEuv3B4KPRt+igGwWKa8QXgz0MXYOzIQ==
+2026-06-21 16:51:30,725 [INFO] Successfully forwarded SMS to Profex: To=8291154628
+2026-06-21 16:52:08,612 [INFO] Fetched 1 new records from Vercel
+2026-06-21 16:52:08,612 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=31YgulBadT31hGGVXjZhTyoMywx0o9ORJOOsntaCKiOOFxtvOR756l8Hr+n9okAG3MaEzP/3EMfQcRHMrfY+BQ==
+2026-06-21 16:52:08,971 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-21 16:53:09,619 [INFO] Fetched 1 new records from Vercel
+2026-06-21 16:53:09,620 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=3PREPi1YhroSnMAbt3tJXIjj0qedJAgHFlwEheVsdJZSo1w6QA/vFD+TnjBYcJymKZIL4P0VQs+f8Kou6T0Izw==
+2026-06-21 16:53:09,913 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-21 17:37:10,658 [INFO] Application shutdown complete.
+2026-06-21 18:06:30,151 [INFO] Application startup complete.
+2026-06-21 18:06:30,152 [INFO] Vercel SMS Polling loop started
+2026-06-21 18:12:51,792 [INFO] Application shutdown complete.
+2026-06-21 19:56:12,101 [INFO] Application startup complete.
+2026-06-21 19:56:12,102 [INFO] Vercel SMS Polling loop started
+2026-06-21 19:58:50,974 [INFO] Application startup complete.
+2026-06-21 19:58:50,975 [INFO] Vercel SMS Polling loop started
+2026-06-21 19:58:50,981 [INFO] Application shutdown complete.
+2026-06-21 19:58:56,947 [INFO] Application startup complete.
+2026-06-21 19:58:56,947 [INFO] Vercel SMS Polling loop started
+2026-06-21 19:58:56,953 [INFO] Application shutdown complete.
+2026-06-21 19:59:22,747 [INFO] Application startup complete.
+2026-06-21 19:59:22,747 [INFO] Vercel SMS Polling loop started
+2026-06-21 20:00:14,203 [ERROR] Error in Vercel polling loop: 
+2026-06-21 20:00:15,187 [ERROR] Error in Vercel polling loop: 
+2026-06-21 20:01:11,199 [ERROR] Error in Vercel polling loop: 
+2026-06-21 20:01:12,185 [ERROR] Error in Vercel polling loop: 
+2026-06-21 20:01:12,762 [INFO] Fetched 1 new records from Vercel
+2026-06-21 20:01:12,763 [INFO] Forwarding SMS from Vercel: To=8291154718, Text=naWchA4vBV63YWEpB5WWCxS0uPsQqta0zBEaxiK4NdoxY3uxVwMHHcs9qOiczA+8dUxtGuos0nFiQn2iUxcUAQ==
+2026-06-21 20:01:13,044 [INFO] Successfully forwarded SMS to Profex: To=8291154718
+2026-06-21 20:01:36,073 [INFO] Initialized Vercel cursor to timestamp 1782052259708 without sending 12 historical messages.
+2026-06-21 20:01:54,493 [INFO] Fetched 1 new records from Vercel
+2026-06-21 20:01:54,493 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=1xGlwpzB7EMoJd8KDw0rEh602IwbRFWdnJWVPY99JW5WmOKVKAJLLM8OXi5qQEaRdUxtGuos0nFiQn2iUxcUAQ==
+2026-06-21 20:01:54,774 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-21 20:26:21,193 [ERROR] Error in Vercel polling loop: 
+2026-06-21 20:26:21,193 [ERROR] Error in Vercel polling loop: 
+2026-06-21 20:31:56,629 [INFO] Fetched 1 new records from Vercel
+2026-06-21 20:31:56,629 [INFO] Forwarding SMS from Vercel: To=8291154628, Text=nFSGNHbZvqiCz7Nm+eliZwF+wa4SPfcW4Cj9VOeZvhAF3WfYjA2kAXRr8u5CZOAALh5/H8hQcfsKci8SJDD0IQ==
+2026-06-21 20:31:57,307 [INFO] Successfully forwarded SMS to Profex: To=8291154628
+2026-06-21 20:31:57,358 [INFO] Fetched 1 new records from Vercel
+2026-06-21 20:31:57,358 [INFO] Forwarding SMS from Vercel: To=8291154628, Text=nFSGNHbZvqiCz7Nm+eliZwF+wa4SPfcW4Cj9VOeZvhAF3WfYjA2kAXRr8u5CZOAALh5/H8hQcfsKci8SJDD0IQ==
+2026-06-21 20:31:57,650 [INFO] Successfully forwarded SMS to Profex: To=8291154628
+2026-06-21 22:06:40,053 [ERROR] Error in Vercel polling loop: 
+2026-06-21 22:09:00,560 [INFO] Application shutdown complete.
+2026-06-21 22:09:55,698 [INFO] Application startup complete.
+2026-06-21 22:09:55,698 [INFO] Vercel SMS Polling loop started
+2026-06-21 22:09:55,728 [INFO] Application shutdown complete.
+2026-06-21 22:10:12,804 [INFO] Application startup complete.
+2026-06-21 22:10:12,805 [INFO] Vercel SMS Polling loop started
+2026-06-21 22:59:07,064 [INFO] Fetched 1 new records from Vercel
+2026-06-21 22:59:07,072 [INFO] Forwarding SMS from Vercel: To=8291154628, Text=QnOY5PN6pJiwXC3T5JnLtMTBUfJdamjBFR9tAzlC47UDYFsGY4kZ9Gg9GvWVneJwdUxtGuos0nFiQn2iUxcUAQ==
+2026-06-21 22:59:07,697 [INFO] Successfully forwarded SMS to Profex: To=8291154628
+2026-06-21 22:59:12,013 [INFO] Fetched 1 new records from Vercel
+2026-06-21 22:59:12,014 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=kqrMp6G4udccbOKsbREknqa0ujpn+I3s29rYdgT7MDqJREvojggK9vA2A+jhW2Pgx4N1weVoJG0XO9jqyXgc2g==
+2026-06-21 22:59:12,296 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-21 22:59:23,758 [INFO] Fetched 1 new records from Vercel
+2026-06-21 22:59:23,759 [INFO] Forwarding SMS from Vercel: To=9160012192, Text=csNvn7h3mf9+RFPDsgen+sPYHG6e4nMHHIVIuK2Zo+UbnfQMSH2CVKwsOfSj7xR7cDP/gANlFZHGkVfY6hZK1Q==
+2026-06-21 22:59:24,041 [INFO] Successfully forwarded SMS to Profex: To=9160012192
+2026-06-21 23:02:48,393 [INFO] Fetched 1 new records from Vercel
+2026-06-21 23:02:48,393 [INFO] Forwarding SMS from Vercel: To=7416652288, Text=8hQRiKFAMpykExhcPsNAspit4PzCla9B9C96uvb0eUoc7XjaP5THKepHLxWOJHpq0BRlgB4FuXBU8ix35eAHWA==
+2026-06-21 23:02:49,067 [INFO] Successfully forwarded SMS to Profex: To=7416652288
+2026-06-21 23:06:11,665 [INFO] Fetched 1 new records from Vercel
+2026-06-21 23:06:11,665 [INFO] Forwarding SMS from Vercel: To=7799022371, Text=o/L9z8LeYWHaii19Hx0WYHeF6XkxanfH0lfO+Cuj8bLOUNSqmWFWSFNtTF8v6KdLLIllboZ/ARatoNaJtWdZ7g==
+2026-06-21 23:06:12,273 [INFO] Successfully forwarded SMS to Profex: To=7799022371
+2026-06-22 01:03:02,765 [ERROR] Error in Vercel polling loop: 
+2026-06-22 01:47:10,847 [INFO] Fetched 1 new records from Vercel
+2026-06-22 01:47:10,857 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=JXaxAazVF+RA8ua0WoHyLB/EiJofyluGrsClDaj9ZEGrMjNRSmvXGTSAKwC+FNhncDP/gANlFZHGkVfY6hZK1Q==
+2026-06-22 01:47:11,566 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-22 02:00:15,198 [ERROR] Error in Vercel polling loop: 
+2026-06-22 02:00:58,191 [ERROR] Error in Vercel polling loop: 
+2026-06-22 02:02:37,195 [ERROR] Error in Vercel polling loop: 
+2026-06-22 06:00:17,203 [ERROR] Error in Vercel polling loop: 
+2026-06-22 06:01:42,196 [ERROR] Error in Vercel polling loop: 
+2026-06-22 06:03:04,190 [ERROR] Error in Vercel polling loop: 
+2026-06-22 06:03:48,192 [ERROR] Error in Vercel polling loop: 
+2026-06-22 07:06:02,205 [ERROR] Error in Vercel polling loop: 
+2026-06-22 09:12:25,816 [ERROR] Fatal error on SSL protocol
+protocol: <asyncio.sslproto.SSLProtocol object at 0x00000277B70CAAD0>
+transport: <_ProactorSocketTransport closing fd=1572>
+Traceback (most recent call last):
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\asyncio\sslproto.py", line 740, in _do_read
+    self._do_read__copied()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\asyncio\sslproto.py", line 785, in _do_read__copied
+    chunk = self._sslobj.read(self.max_size)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\ssl.py", line 868, in read
+    v = self._sslobj.read(len)
+MemoryError
+2026-06-22 09:12:30,101 [ERROR] Error in Vercel polling loop: 
+2026-06-22 09:13:17,520 [ERROR] Fatal error on SSL protocol
+protocol: <asyncio.sslproto.SSLProtocol object at 0x00000277B70CAAD0>
+transport: <_ProactorSocketTransport closing fd=1572>
+Traceback (most recent call last):
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\asyncio\sslproto.py", line 740, in _do_read
+    self._do_read__copied()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\asyncio\sslproto.py", line 785, in _do_read__copied
+    chunk = self._sslobj.read(self.max_size)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\ssl.py", line 868, in read
+    v = self._sslobj.read(len)
+MemoryError
+2026-06-22 09:13:17,525 [ERROR] Error in Vercel polling loop: 
+2026-06-22 09:13:24,002 [ERROR] Fatal error on SSL protocol
+protocol: <asyncio.sslproto.SSLProtocol object at 0x00000277B70CAAD0>
+transport: <_ProactorSocketTransport closing fd=1572>
+Traceback (most recent call last):
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\asyncio\sslproto.py", line 740, in _do_read
+    self._do_read__copied()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\asyncio\sslproto.py", line 785, in _do_read__copied
+    chunk = self._sslobj.read(self.max_size)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\ssl.py", line 868, in read
+    v = self._sslobj.read(len)
+MemoryError
+2026-06-22 09:13:26,015 [ERROR] Error in Vercel polling loop: 
+2026-06-22 09:13:29,081 [ERROR] Error in Vercel polling loop: 
+2026-06-22 10:33:44,764 [ERROR] Error in Vercel polling loop: 
+2026-06-22 11:29:21,009 [ERROR] Error in Vercel polling loop: 
+2026-06-22 14:01:05,791 [ERROR] Error in Vercel polling loop: 
+2026-06-22 14:01:53,756 [ERROR] Error in Vercel polling loop: 
+2026-06-22 15:58:03,064 [INFO] Application startup complete.
+2026-06-22 15:58:03,065 [INFO] Vercel SMS Polling loop started
+2026-06-22 15:58:03,080 [INFO] Application shutdown complete.
+2026-06-22 16:00:26,765 [ERROR] Error in Vercel polling loop: 
+2026-06-22 16:01:06,764 [ERROR] Error in Vercel polling loop: 
+2026-06-22 16:03:58,004 [INFO] Fetched 1 new records from Vercel
+2026-06-22 16:03:58,005 [INFO] Forwarding SMS from Vercel: To=7799607940, Text=7vJc+41m61ik14/vhkfMvnDPzVtXdymMEB2qErGawsvi8XfpHuK2jkWAG4U3AF+pt+igGwWKa8QXgz0MXYOzIQ==
+2026-06-22 16:03:58,670 [INFO] Successfully forwarded SMS to Profex: To=7799607940
+2026-06-22 16:04:17,534 [INFO] Fetched 1 new records from Vercel
+2026-06-22 16:04:17,535 [INFO] Forwarding SMS from Vercel: To=8291154718, Text=FDl7MvilcNfGbCmR5Ozmg54pXvPq7Ui6YFjQxPQviX4HgjLS/pXQ0UMuXMj8RNEocDP/gANlFZHGkVfY6hZK1Q==
+2026-06-22 16:04:17,842 [INFO] Successfully forwarded SMS to Profex: To=8291154718
+2026-06-22 16:10:56,978 [INFO] Fetched 1 new records from Vercel
+2026-06-22 16:10:56,978 [INFO] Forwarding SMS from Vercel: To=7799022371, Text=amPMthOonlDRs4nqgG7jOt0GLVuEgGAEvL//cdTDSgG6kN1mT/TE/aIah5al+3QccDP/gANlFZHGkVfY6hZK1Q==
+2026-06-22 16:10:57,811 [INFO] Successfully forwarded SMS to Profex: To=7799022371
+2026-06-22 16:11:21,071 [INFO] Fetched 1 new records from Vercel
+2026-06-22 16:11:21,072 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=rsqqeGz0vktml5NAIkNWitnhCJ9/k6amhiUU4BAW9crqU7e+XpGWTQMY0mLlQ881KZIL4P0VQs+f8Kou6T0Izw==
+2026-06-22 16:11:21,356 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-22 16:15:08,386 [INFO] Fetched 1 new records from Vercel
+2026-06-22 16:15:08,386 [INFO] Forwarding SMS from Vercel: To=8291154718, Text=ofLxJVniEdM6sgtPVo48326pDoDrlwr4gbXoMA7VfREAejpvWhsXizdtH7DysA9ocDP/gANlFZHGkVfY6hZK1Q==
+2026-06-22 16:15:08,668 [INFO] Successfully forwarded SMS to Profex: To=8291154718
+2026-06-22 16:18:36,336 [INFO] Fetched 1 new records from Vercel
+2026-06-22 16:18:36,336 [INFO] Forwarding SMS from Vercel: To=7799022371, Text=Dj2mNJZfb8Fedmt4sqXmJy3Tw8V2BPgn+enpoMVrM7lgwVr/uzRSARNDMA4oil9gdUxtGuos0nFiQn2iUxcUAQ==
+2026-06-22 16:18:36,916 [INFO] Successfully forwarded SMS to Profex: To=7799022371
+2026-06-22 16:21:16,763 [ERROR] Error in Vercel polling loop: 
+2026-06-22 16:29:04,685 [INFO] Fetched 1 new records from Vercel
+2026-06-22 16:29:04,685 [INFO] Forwarding SMS from Vercel: To=8291154718, Text=cwa+kONOfhIwAPdQcHTbImkdxiS2dWKYXDTKyDEmdzEylf/umc8LpMWL/rMliqYdt+igGwWKa8QXgz0MXYOzIQ==
+2026-06-22 16:29:05,278 [INFO] Successfully forwarded SMS to Profex: To=8291154718
+2026-06-22 17:49:40,131 [ERROR] Error in Vercel polling loop: 
+2026-06-22 18:00:29,762 [ERROR] Error in Vercel polling loop: 
+2026-06-22 18:01:15,756 [ERROR] Error in Vercel polling loop: 
+2026-06-22 20:00:17,763 [ERROR] Error in Vercel polling loop: 
+2026-06-22 20:00:51,757 [ERROR] Error in Vercel polling loop: 
+2026-06-22 21:40:51,888 [INFO] Fetched 1 new records from Vercel
+2026-06-22 21:40:51,890 [INFO] Forwarding SMS from Vercel: To=7416652288, Text=ouHSsAj/fGI3E3p++w3iOYrL++bElz7U+lefh/2MiBbKkRqHsbuZ8gEVVOuN4NtvcDP/gANlFZHGkVfY6hZK1Q==
+2026-06-22 21:40:52,607 [INFO] Successfully forwarded SMS to Profex: To=7416652288
+2026-06-22 21:51:20,084 [INFO] Fetched 1 new records from Vercel
+2026-06-22 21:51:20,084 [INFO] Forwarding SMS from Vercel: To=7799792957, Text=NXPIxlROtETqA/PNyEZE+uh9f5yz3maL0PhCzHS3oolxfaFQobyUUI7nyLYL8IJwdUxtGuos0nFiQn2iUxcUAQ==
+2026-06-22 21:51:20,660 [INFO] Successfully forwarded SMS to Profex: To=7799792957
+2026-06-22 21:51:36,962 [INFO] Fetched 1 new records from Vercel
+2026-06-22 21:51:36,963 [INFO] Forwarding SMS from Vercel: To=7799607940, Text=JrOlzZOpCGHenSRU0FExZdXG5h7OxOemRa5L37TgX6lGKXapbsB5MR2GhewuXlOTLIllboZ/ARatoNaJtWdZ7g==
+2026-06-22 21:51:37,577 [INFO] Successfully forwarded SMS to Profex: To=7799607940
+2026-06-22 22:00:26,768 [ERROR] Error in Vercel polling loop: 
+2026-06-22 22:01:03,754 [ERROR] Error in Vercel polling loop: 
+2026-06-22 22:01:24,503 [INFO] Fetched 2 new records from Vercel
+2026-06-22 22:01:24,503 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=TmcAPtiTAUQEEQZLca3blPi02CAc8Xzt/5TEtc75sMyMW4UDJvqMlIjHZE38iXN2LIllboZ/ARatoNaJtWdZ7g==
+2026-06-22 22:01:25,128 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-22 22:01:25,129 [INFO] Forwarding SMS from Vercel: To=7799022371, Text=Kmchr94evE3VAt16plqBhdD9D2KjJD4pwMbUtCyQbF21emwsoFQRSpGPUSuyOrNxcDP/gANlFZHGkVfY6hZK1Q==
+2026-06-22 22:01:25,423 [INFO] Successfully forwarded SMS to Profex: To=7799022371
+2026-06-22 22:01:44,634 [INFO] Fetched 1 new records from Vercel
+2026-06-22 22:01:44,634 [INFO] Forwarding SMS from Vercel: To=7799607940, Text=pHZvDzMl39Yw2OyyNDjEAaH5Z5EU++1INSHW1FBbxQ2XW9dST1CUoI96rXSYT8LzdUxtGuos0nFiQn2iUxcUAQ==
+2026-06-22 22:01:44,974 [INFO] Successfully forwarded SMS to Profex: To=7799607940
+2026-06-22 22:02:59,076 [INFO] Fetched 1 new records from Vercel
+2026-06-22 22:02:59,077 [INFO] Forwarding SMS from Vercel: To=8291154718, Text=FeIW9vw3bT89hy5BaWI6ogFVZ+FGdqWvyxUs+o0iatrzUgLM74C/1k0Af34VKLaQKZIL4P0VQs+f8Kou6T0Izw==
+2026-06-22 22:02:59,359 [INFO] Successfully forwarded SMS to Profex: To=8291154718
+2026-06-22 22:07:38,083 [INFO] Fetched 1 new records from Vercel
+2026-06-22 22:07:38,083 [INFO] Forwarding SMS from Vercel: To=7799792957, Text=qRa0X9dSdY4w+UXmLQoJGUKQ03bpUc0LRQvGBO6YsJ70HrlPjGOXx5NNG7ZBLiWBLh5/H8hQcfsKci8SJDD0IQ==
+2026-06-22 22:07:38,374 [INFO] Successfully forwarded SMS to Profex: To=7799792957
+2026-06-22 22:17:22,268 [INFO] Fetched 1 new records from Vercel
+2026-06-22 22:17:22,268 [INFO] Forwarding SMS from Vercel: To=9160012192, Text=ewZGrHJffVq6ddLkK5FyVmF+NgwP3LFZcAttFLclM/JGpScr8dJu24GFFlLBjI7WdUxtGuos0nFiQn2iUxcUAQ==
+2026-06-22 22:17:22,552 [INFO] Successfully forwarded SMS to Profex: To=9160012192
+2026-06-22 22:17:51,418 [INFO] Fetched 1 new records from Vercel
+2026-06-22 22:17:51,418 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=H41ILqUVItTwKLz6OSah6EJRW/aCQW3dGu9f6UYg3b8eoc9I48pj7f0yZ5oDgCtKcDP/gANlFZHGkVfY6hZK1Q==
+2026-06-22 22:17:52,028 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-22 22:31:42,043 [INFO] Fetched 1 new records from Vercel
+2026-06-22 22:31:42,046 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=/iRq/D3xZV18oX5ZfJt3nd6gFEdWI0ldC3adOdzXArJcwydq30geB42E1XHI5p1e3MaEzP/3EMfQcRHMrfY+BQ==
+2026-06-22 22:31:42,665 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-22 23:02:36,504 [INFO] Fetched 1 new records from Vercel
+2026-06-22 23:02:36,504 [INFO] Forwarding SMS from Vercel: To=9160012192, Text=tJSkb23Zz2Y2feHJXXUpWeYCzHKQkPM8KccZHVj8bhoAmGNWTCAZxkakSKyC0p+gLh5/H8hQcfsKci8SJDD0IQ==
+2026-06-22 23:02:37,120 [INFO] Successfully forwarded SMS to Profex: To=9160012192
+2026-06-22 23:20:53,939 [INFO] Fetched 1 new records from Vercel
+2026-06-22 23:20:53,940 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=PmZCQzZcD+xk4JQo2xSZ0Kv/RZskequHDIW2irj2D6XqXOlaKErLoV0DCb2YEbJJ3MaEzP/3EMfQcRHMrfY+BQ==
+2026-06-22 23:20:54,536 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-22 23:21:10,535 [INFO] Fetched 1 new records from Vercel
+2026-06-22 23:21:10,535 [INFO] Forwarding SMS from Vercel: To=7799607940, Text=dzL9bqU0jhDaGzXaULz/4HoXJtKd6g0KdJU4efs3jLiwyJczD2IRSvAX5W5Uug+X0BRlgB4FuXBU8ix35eAHWA==
+2026-06-22 23:21:10,820 [INFO] Successfully forwarded SMS to Profex: To=7799607940
+2026-06-22 23:31:45,654 [INFO] Fetched 1 new records from Vercel
+2026-06-22 23:31:45,654 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=qRL7kgXmZi4Prxuf3gPkI/NlZ4DxGiWKRJwt0SLCJzBj+LZkA180gBo71T9FEsqQ3MaEzP/3EMfQcRHMrfY+BQ==
+2026-06-22 23:31:46,297 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-23 00:00:20,759 [ERROR] Error in Vercel polling loop: 
+2026-06-23 00:01:03,757 [ERROR] Error in Vercel polling loop: 
+2026-06-23 00:02:57,659 [INFO] Fetched 1 new records from Vercel
+2026-06-23 00:02:57,659 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=AQaN9/Ft2B6eagm7j3vnwGG8fc2PZjKlucJGVKygySjOfJVOvGyniZhAk5q0jRqmLIllboZ/ARatoNaJtWdZ7g==
+2026-06-23 00:02:58,297 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-23 00:04:05,746 [INFO] Fetched 1 new records from Vercel
+2026-06-23 00:04:05,747 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=/1oAURXMOyl/QF873uSWZaFMLQ9pwHjv+PtHZu5AOruhl2B9WIXuWbT1k6ygAO473MaEzP/3EMfQcRHMrfY+BQ==
+2026-06-23 00:04:06,037 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-23 00:04:36,639 [INFO] Fetched 1 new records from Vercel
+2026-06-23 00:04:36,639 [INFO] Forwarding SMS from Vercel: To=7799607940, Text=jibXC+jfODIy/UpVt0ZlfKEOPepw6yxVpbBwpVp1vuYeyVd71wc8Y5GiTNkHZ3I9KZIL4P0VQs+f8Kou6T0Izw==
+2026-06-23 00:04:36,924 [INFO] Successfully forwarded SMS to Profex: To=7799607940
+2026-06-23 00:06:07,466 [INFO] Fetched 1 new records from Vercel
+2026-06-23 00:06:07,466 [INFO] Forwarding SMS from Vercel: To=7799792957, Text=TsQ8mcqVWPdpBIYBdGXQ8i7TR+xn94At1J95MPt+Chj1Tlj4N9UAwXqv8FJi/KI/3pCjVMgochKMlv+uRlNZNA==
+2026-06-23 00:06:07,756 [INFO] Successfully forwarded SMS to Profex: To=7799792957
+2026-06-23 00:10:17,965 [INFO] Fetched 1 new records from Vercel
+2026-06-23 00:10:17,965 [INFO] Forwarding SMS from Vercel: To=8291154718, Text=98B8H0IQF4y3QIb4JIGpgzZio7LS5KI8G+7c94TxE/07hjv0jpJIexeaWLK49BQz0BRlgB4FuXBU8ix35eAHWA==
+2026-06-23 00:10:18,577 [INFO] Successfully forwarded SMS to Profex: To=8291154718
+2026-06-23 00:16:02,815 [INFO] Fetched 1 new records from Vercel
+2026-06-23 00:16:02,815 [INFO] Forwarding SMS from Vercel: To=9160012192, Text=7GeBbPEGUkTbwkv09YZb+YPSbZnHyAZzYoA1kzYVDwxcgbvXL4uRR9dUgVF8VpF73MaEzP/3EMfQcRHMrfY+BQ==
+2026-06-23 00:16:03,420 [INFO] Successfully forwarded SMS to Profex: To=9160012192
+2026-06-23 00:23:31,490 [INFO] Fetched 1 new records from Vercel
+2026-06-23 00:23:31,490 [INFO] Forwarding SMS from Vercel: To=8291154718, Text=3/S7JXgW8UA4jRXkqDKwssXsyR7a1adVTWkvhrx3zysnnKMNZinSDOnXgkmWWFAuLh5/H8hQcfsKci8SJDD0IQ==
+2026-06-23 00:23:31,777 [INFO] Successfully forwarded SMS to Profex: To=8291154718
+2026-06-23 02:00:18,762 [ERROR] Error in Vercel polling loop: 
+2026-06-23 02:01:06,758 [ERROR] Error in Vercel polling loop: 
+2026-06-23 05:42:06,361 [ERROR] Error in Vercel polling loop: 
+2026-06-23 06:00:20,767 [ERROR] Error in Vercel polling loop: 
+2026-06-23 06:01:37,768 [ERROR] Error in Vercel polling loop: 
+2026-06-23 06:12:52,771 [ERROR] Error in Vercel polling loop: 
+2026-06-23 07:04:04,767 [ERROR] Error in Vercel polling loop: 
+2026-06-23 07:42:04,062 [INFO] Initialized Vercel cursor to timestamp 1782122174408 without sending 12 historical messages.
+2026-06-23 07:45:50,036 [INFO] Fetched 1 new records from Vercel
+2026-06-23 07:45:50,037 [INFO] Forwarding SMS from Vercel: To=7799607940, Text=98Ipb/Df0LnPrAk9m2d7eQ39eUIaa63kS1B98ZAvcb2yWcttWL4RU5mwDnTpWyWy0BRlgB4FuXBU8ix35eAHWA==
+2026-06-23 07:45:50,671 [INFO] Successfully forwarded SMS to Profex: To=7799607940
+2026-06-23 07:46:12,455 [INFO] Fetched 1 new records from Vercel
+2026-06-23 07:46:12,456 [INFO] Forwarding SMS from Vercel: To=7416652288, Text=/SRsQ6q7OgOIlpkcdbC/EF9MO9oCFeKlERD10PhjQtpvHZUA85SnmX5Me/12f8h8cDP/gANlFZHGkVfY6hZK1Q==
+2026-06-23 07:46:12,747 [INFO] Successfully forwarded SMS to Profex: To=7416652288
+2026-06-23 07:59:00,628 [INFO] Fetched 1 new records from Vercel
+2026-06-23 07:59:00,628 [INFO] Forwarding SMS from Vercel: To=7799022371, Text=v+EhWoJ2aVkm52s8maZ+e+TXmW+zOyhEWZqRBRVKXdo4iRQTTiWWvZZQPBDRdibG3MaEzP/3EMfQcRHMrfY+BQ==
+2026-06-23 07:59:00,916 [INFO] Successfully forwarded SMS to Profex: To=7799022371
+2026-06-23 07:59:16,683 [INFO] Fetched 1 new records from Vercel
+2026-06-23 07:59:16,684 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=IERel2vtkgB1Bar645tUll783gFN9MGzHloKc+8rSDWazsIu6TWuMNK5sXcqHUPht+igGwWKa8QXgz0MXYOzIQ==
+2026-06-23 07:59:16,969 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-23 08:00:12,767 [ERROR] Error in Vercel polling loop: 
+2026-06-23 08:08:42,763 [ERROR] Error in Vercel polling loop: 
+2026-06-23 08:35:51,147 [INFO] Fetched 1 new records from Vercel
+2026-06-23 08:35:51,148 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=Frf4CDbLTuxtyRDDt0IQxJPNTqvkE7SNoun7av8wnEcdyvce0EA31O5gUS9zLv1e0BRlgB4FuXBU8ix35eAHWA==
+2026-06-23 08:35:51,433 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-23 08:36:04,350 [INFO] Fetched 1 new records from Vercel
+2026-06-23 08:36:04,350 [INFO] Forwarding SMS from Vercel: To=7799022371, Text=hD2A1eDbmdf/VcSe++/hFYzMedDHtP5lAsfu9PZREh9AZZ3bb9muOW8jiZkwyUPz3pCjVMgochKMlv+uRlNZNA==
+2026-06-23 08:36:04,945 [INFO] Successfully forwarded SMS to Profex: To=7799022371
+2026-06-23 09:08:59,764 [ERROR] Error in Vercel polling loop: 
+2026-06-23 09:19:48,345 [INFO] Initialized Vercel cursor to timestamp 1782181173990 without sending 51 historical messages.
+2026-06-23 09:34:52,877 [INFO] Fetched 1 new records from Vercel
+2026-06-23 09:34:52,879 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=5gA17giZ+rBWjK5dJXl80FV4hb6t0x4c1eyHqM+IRexBKbG98H16r5WkY5MesCuYt+igGwWKa8QXgz0MXYOzIQ==
+2026-06-23 09:34:53,175 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-23 09:35:00,591 [INFO] Fetched 1 new records from Vercel
+2026-06-23 09:35:00,591 [INFO] Forwarding SMS from Vercel: To=8291154628, Text=IlW7bRPpJ9SZfJFgPvqlGTTllKa8wGYwQ9fmlvhzeVnXY0MTO0XweVmUY4+/YPM+Lh5/H8hQcfsKci8SJDD0IQ==
+2026-06-23 09:35:01,281 [INFO] Successfully forwarded SMS to Profex: To=8291154628
+2026-06-23 10:44:39,625 [ERROR] Error in Vercel polling loop: 
+2026-06-23 12:45:17,040 [ERROR] Error in Vercel polling loop: 
+2026-06-23 12:54:41,624 [ERROR] Error in Vercel polling loop: 
+2026-06-23 14:00:15,608 [ERROR] Error in Vercel polling loop: 
+2026-06-23 14:00:55,612 [ERROR] Error in Vercel polling loop: 
+2026-06-23 14:01:14,612 [ERROR] Error in Vercel polling loop: 
+2026-06-23 15:02:52,620 [ERROR] Error in Vercel polling loop: 
+2026-06-23 15:10:09,611 [ERROR] Error in Vercel polling loop: 
+2026-06-23 15:25:01,607 [ERROR] Error in Vercel polling loop: 
+2026-06-23 16:00:14,610 [ERROR] Error in Vercel polling loop: 
+2026-06-23 16:01:03,616 [ERROR] Error in Vercel polling loop: 
+2026-06-23 17:21:22,644 [ERROR] Error in Vercel polling loop: 
+2026-06-23 18:00:24,625 [ERROR] Error in Vercel polling loop: 
+2026-06-23 18:01:17,619 [ERROR] Error in Vercel polling loop: 
+2026-06-23 18:04:03,629 [ERROR] Error in Vercel polling loop: 
+2026-06-23 19:37:31,622 [ERROR] Error in Vercel polling loop: 
+2026-06-23 19:40:19,619 [ERROR] Error in Vercel polling loop: 
+2026-06-23 19:51:37,619 [ERROR] Error in Vercel polling loop: 
+2026-06-23 19:57:14,605 [ERROR] Error in Vercel polling loop: 
+2026-06-23 20:00:37,620 [ERROR] Error in Vercel polling loop: 
+2026-06-23 20:01:11,607 [ERROR] Error in Vercel polling loop: 
+2026-06-23 21:05:12,624 [ERROR] Error in Vercel polling loop: 
+2026-06-23 21:12:20,607 [ERROR] Error in Vercel polling loop: 
+2026-06-23 21:18:05,617 [ERROR] Error in Vercel polling loop: 
+2026-06-23 21:53:27,524 [ERROR] Error in Vercel polling loop: 
+2026-06-23 22:00:14,618 [ERROR] Error in Vercel polling loop: 
+2026-06-23 22:00:27,608 [ERROR] Error in Vercel polling loop: 
+2026-06-23 22:01:16,616 [ERROR] Error in Vercel polling loop: 
+2026-06-23 23:05:03,631 [ERROR] Error in Vercel polling loop: 
+2026-06-23 23:09:31,614 [ERROR] Error in Vercel polling loop: 
+2026-06-24 00:00:23,634 [ERROR] Error in Vercel polling loop: 
+2026-06-24 00:01:09,609 [ERROR] Error in Vercel polling loop: 
+2026-06-24 01:37:56,957 [ERROR] Error in Vercel polling loop: 
+2026-06-24 02:00:17,610 [ERROR] Error in Vercel polling loop: 
+2026-06-24 02:00:57,610 [ERROR] Error in Vercel polling loop: 
+2026-06-24 05:05:26,622 [ERROR] Error in Vercel polling loop: 
+2026-06-24 06:00:14,621 [ERROR] Error in Vercel polling loop: 
+2026-06-24 06:00:47,608 [ERROR] Error in Vercel polling loop: 
+2026-06-24 08:00:13,619 [ERROR] Error in Vercel polling loop: 
+2026-06-24 08:00:52,617 [ERROR] Error in Vercel polling loop: 
+2026-06-24 08:03:49,606 [ERROR] Error in Vercel polling loop: 
+2026-06-24 08:47:53,552 [ERROR] Error in Vercel polling loop: 
+2026-06-24 09:39:09,960 [INFO] Fetched 1 new records from Vercel
+2026-06-24 09:39:09,963 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=H1U6Uy84r1kddm61a0BEkLXCZd86f6VG8a2o7782eDFxM/M64Zxq+ERN4rnSuO7FLh5/H8hQcfsKci8SJDD0IQ==
+2026-06-24 09:39:10,262 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-24 09:39:14,852 [INFO] Fetched 1 new records from Vercel
+2026-06-24 09:39:14,852 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=U5ODqk3s28DIzRgusqeO1pHnJGlvMWh6YzSkKQOkLXHvrDEysgq+wBHHfL7Q7ajf0BRlgB4FuXBU8ix35eAHWA==
+2026-06-24 09:39:15,632 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-24 09:39:20,075 [INFO] Fetched 1 new records from Vercel
+2026-06-24 09:39:20,076 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=h7fph6PUpjh6wEIhFJCxIWDlanvTC0VMPOkQJ4Hv9sm7P2GKCuJkX5iiupYYNhiut+igGwWKa8QXgz0MXYOzIQ==
+2026-06-24 09:39:20,379 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-24 09:39:54,235 [INFO] Initialized Vercel cursor to timestamp 1782183965139 without sending 18 historical messages.
+2026-06-24 09:43:05,648 [INFO] Fetched 1 new records from Vercel
+2026-06-24 09:43:05,648 [INFO] Forwarding SMS from Vercel: To=7799006524, Text=SUPERYES ppOQ8n84RyO4E*zzHaaAXsM(89Y0TbSqROCEs
+2026-06-24 09:43:05,934 [INFO] Successfully forwarded SMS to Profex: To=7799006524
+2026-06-24 09:50:37,727 [INFO] Fetched 1 new records from Vercel
+2026-06-24 09:50:37,727 [INFO] Forwarding SMS from Vercel: To=9217002418, Text=NSDLUPI 3jDMLXIRN5mbknKPnnt75sBFVNEZqOhj5RACdxib9agNlEIIaaP14ilya6vTVTy1X
+2026-06-24 09:50:38,416 [INFO] Successfully forwarded SMS to Profex: To=9217002418
+2026-06-24 09:50:39,886 [INFO] Fetched 1 new records from Vercel
+2026-06-24 09:50:39,887 [INFO] Forwarding SMS from Vercel: To=7290068585, Text=NSDLUPI 3jDMLXIRN5mbknKPnnt75sBFVNEZqOhj5RACdxib9agNlEIIaaP14ilya6vTVTy1X
+2026-06-24 09:50:40,182 [INFO] Successfully forwarded SMS to Profex: To=7290068585
+2026-06-24 09:51:00,500 [INFO] Fetched 3 new records from Vercel
+2026-06-24 09:51:00,500 [INFO] Forwarding SMS from Vercel: To=9217379139, Text=NSDLUPI 3jDMLXIRN5mbknKPnnt75sBFVNEZqOhj5RACdxib9agNGTiFKBHE4mGHoS5gTH6GQ
+2026-06-24 09:51:00,799 [INFO] Successfully forwarded SMS to Profex: To=9217379139
+2026-06-24 09:51:00,799 [INFO] Forwarding SMS from Vercel: To=9071581118, Text=NSDLUPI 3jDMLXIRN5mbknKPnnt75sBFVNEZqOhj5RACdxib9agNGTiFKBHE4mGHoS5gTH6GQ
+2026-06-24 09:51:01,088 [INFO] Successfully forwarded SMS to Profex: To=9071581118
+2026-06-24 09:51:01,088 [INFO] Forwarding SMS from Vercel: To=7290094848, Text=NSDLUPI 3jDMLXIRN5mbknKPnnt75sBFVNEZqOhj5RACdxib9agNGTiFKBHE4mGHoS5gTH6GQ
+2026-06-24 09:51:01,386 [INFO] Successfully forwarded SMS to Profex: To=7290094848
+2026-06-24 09:51:43,409 [INFO] Fetched 3 new records from Vercel
+2026-06-24 09:51:43,409 [INFO] Forwarding SMS from Vercel: To=9538134459, Text=NSDLUPI 3jDMLXIRN5mbknKPnnt75sBFVNEZqOhj5RACdxib9agMFRj8j7rjWwvaunYIrqN4o
+2026-06-24 09:51:43,779 [INFO] Successfully forwarded SMS to Profex: To=9538134459
+2026-06-24 09:51:43,780 [INFO] Forwarding SMS from Vercel: To=7289870202, Text=NSDLUPI 3jDMLXIRN5mbknKPnnt75sBFVNEZqOhj5RACdxib9agMFRj8j7rjWwvaunYIrqN4o
+2026-06-24 09:51:44,108 [INFO] Successfully forwarded SMS to Profex: To=7289870202
+2026-06-24 09:51:44,109 [INFO] Forwarding SMS from Vercel: To=7406661121, Text=NSDLUPI 3jDMLXIRN5mbknKPnnt75sBFVNEZqOhj5RACdxib9agMFRj8j7rjWwvaunYIrqN4o
+2026-06-24 09:51:44,402 [INFO] Successfully forwarded SMS to Profex: To=7406661121
+2026-06-24 10:00:40,618 [ERROR] Error in Vercel polling loop: 
+2026-06-24 10:01:47,624 [ERROR] Error in Vercel polling loop: 
+2026-06-24 10:04:23,045 [INFO] Initialized Vercel cursor to timestamp 1782274902862 without sending 28 historical messages.
+2026-06-24 10:08:18,271 [INFO] Fetched 1 new records from Vercel
+2026-06-24 10:08:18,271 [INFO] Forwarding SMS from Vercel: To=07406177707, Text=PHONEPE-MULTI-SMS-VERIFY 0X6L964K36LZU0PU6C7JPEDVEKU1ERS5ELC:ibl
+2026-06-24 10:08:18,564 [INFO] Successfully forwarded SMS to Profex: To=07406177707
+2026-06-24 10:10:16,442 [INFO] Fetched 1 new records from Vercel
+2026-06-24 10:10:16,442 [INFO] Forwarding SMS from Vercel: To=07406177707, Text=PHONEPE-MULTI-SMS-VERIFY 197CEU51LDJJDU4XK0UEGNSZYEFUS2ZUNKP:ybl
+2026-06-24 10:10:16,729 [INFO] Successfully forwarded SMS to Profex: To=07406177707
+2026-06-24 10:13:21,686 [INFO] Fetched 1 new records from Vercel
+2026-06-24 10:13:21,686 [INFO] Forwarding SMS from Vercel: To=09289239938, Text=PHONEPE-MULTI-SMS-VERIFY 0JXRZBNG3CPF1JAYVYZFD89JVU2FABA4TPS:ibl
+2026-06-24 10:13:21,972 [INFO] Successfully forwarded SMS to Profex: To=09289239938
+2026-06-24 10:13:43,519 [INFO] Fetched 1 new records from Vercel
+2026-06-24 10:13:43,519 [INFO] Forwarding SMS from Vercel: To=07022400184, Text=PHONEPE-MULTI-SMS-VERIFY CJYL6WSCY1WKK6WVNUBJ8CA8838ZVZCXR07:ibl
+2026-06-24 10:13:43,818 [INFO] Successfully forwarded SMS to Profex: To=07022400184
+2026-06-24 10:14:50,238 [INFO] Fetched 1 new records from Vercel
+2026-06-24 10:14:50,238 [INFO] Forwarding SMS from Vercel: To=07022404484, Text=PHONEPE-MULTI-SMS-VERIFY L9JE6NSFW2KV0Y7GT641FWPJDR5U8ZXZBLX:ibl
+2026-06-24 10:14:50,518 [INFO] Successfully forwarded SMS to Profex: To=07022404484
+2026-06-24 10:16:48,517 [INFO] Fetched 1 new records from Vercel
+2026-06-24 10:16:48,517 [INFO] Forwarding SMS from Vercel: To=07022404484, Text=PHONEPE-MULTI-SMS-VERIFY XJZCLZTM4WLPULN348WZYBLVWEUMN0679VR:ibl
+2026-06-24 10:16:48,817 [INFO] Successfully forwarded SMS to Profex: To=07022404484
+2026-06-24 10:16:58,987 [INFO] Fetched 1 new records from Vercel
+2026-06-24 10:16:58,987 [INFO] Forwarding SMS from Vercel: To=09606287620, Text=PHONEPE-MULTI-SMS-VERIFY V7RRBCBSBKX8TVW0NRJ76A2N6GULKWPBAN3:ibl
+2026-06-24 10:16:59,271 [INFO] Successfully forwarded SMS to Profex: To=09606287620
+2026-06-24 10:17:55,573 [INFO] Fetched 1 new records from Vercel
+2026-06-24 10:17:55,573 [INFO] Forwarding SMS from Vercel: To=7799022371, Text=Z9v5QEdIa5jyxACOpybRWpLTDyKPcHCaimaP3RyuMA63iuHavyyx/uJHSW0fyixN0BRlgB4FuXBU8ix35eAHWA==
+2026-06-24 10:17:55,855 [INFO] Successfully forwarded SMS to Profex: To=7799022371
+2026-06-24 10:41:39,774 [INFO] Fetched 1 new records from Vercel
+2026-06-24 10:41:39,776 [INFO] Forwarding SMS from Vercel: To=7039000207, Text=SUPERYES pp!Bp9VycyGalNzNsn&R!!l2*0PpKux9CF5mE
+2026-06-24 10:41:40,474 [INFO] Successfully forwarded SMS to Profex: To=7039000207
+2026-06-24 10:44:07,750 [INFO] Fetched 1 new records from Vercel
+2026-06-24 10:44:07,751 [INFO] Forwarding SMS from Vercel: To=7799006524, Text=SUPERYES ppV(xd?vhcEu74L*03skI7loiC&78PngLJQ&Q
+2026-06-24 10:44:08,034 [INFO] Successfully forwarded SMS to Profex: To=7799006524
+2026-06-24 10:44:26,619 [WARNING] Error fetching path devices: 
+2026-06-24 10:44:45,236 [INFO] Fetched 1 new records from Vercel
+2026-06-24 10:44:45,236 [INFO] Forwarding SMS from Vercel: To=9971738439, Text=SUPERYES ppAlT9T8NcEHxN3C1NRm13d8fLxDl*VEB8TIm
+2026-06-24 10:44:45,520 [INFO] Successfully forwarded SMS to Profex: To=9971738439
+2026-06-24 10:45:59,394 [INFO] Fetched 1 new records from Vercel
+2026-06-24 10:45:59,394 [INFO] Forwarding SMS from Vercel: To=8291154628, Text=suYNpuOUQjVgfAlOB87L/jOvp2HUJDEqgIaU809uYf9WHvfmOzm9JTno6QVgKYVILh5/H8hQcfsKci8SJDD0IQ==
+2026-06-24 10:45:59,681 [INFO] Successfully forwarded SMS to Profex: To=8291154628
+2026-06-24 10:46:25,987 [INFO] Fetched 1 new records from Vercel
+2026-06-24 10:46:25,987 [INFO] Forwarding SMS from Vercel: To=7799792957, Text=lNQ7xgCZlp4gh33El9/HOLq0a1UyaiAqaWO7igCtFNoVcHyLRvv6Lix7vsD7ohCI3MaEzP/3EMfQcRHMrfY+BQ==
+2026-06-24 10:46:26,292 [INFO] Successfully forwarded SMS to Profex: To=7799792957
+2026-06-24 11:29:19,799 [INFO] Initialized Vercel cursor to timestamp 1782274996737 without sending 58 historical messages.
+2026-06-24 11:39:03,232 [INFO] Fetched 1 new records from Vercel
+2026-06-24 11:39:03,232 [INFO] Forwarding SMS from Vercel: To=7416652288, Text=vKS6bzTi/Fzw5GAI3tXf8XFT2WLbkEJwBI8Tu/Ye7jMoEFYBeW6cRQIOv2agcdB0Lh5/H8hQcfsKci8SJDD0IQ==
+2026-06-24 11:39:03,940 [INFO] Successfully forwarded SMS to Profex: To=7416652288
+2026-06-24 11:53:27,634 [INFO] Fetched 1 new records from Vercel
+2026-06-24 11:53:27,638 [INFO] Forwarding SMS from Vercel: To=8291154628, Text=H0p3EglA6xsxfYM4HzBITvcDpo1cvM8LdeaTqowceRhHjv6tv+eE+O001Vpp8bbot+igGwWKa8QXgz0MXYOzIQ==
+2026-06-24 11:53:28,268 [INFO] Successfully forwarded SMS to Profex: To=8291154628
+2026-06-24 11:53:38,409 [INFO] Fetched 1 new records from Vercel
+2026-06-24 11:53:38,410 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=v8DEdXNZplHUJwAkq+94aq3X5+6EFHbmndiHtIaeMgrccJKlNi+RugIUewDvUYYMdUxtGuos0nFiQn2iUxcUAQ==
+2026-06-24 11:53:38,710 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-24 11:54:25,416 [INFO] Fetched 1 new records from Vercel
+2026-06-24 11:54:25,416 [INFO] Forwarding SMS from Vercel: To=8291154628, Text=L90ur9eXPIRDntuIaUY82oaMqP4hzFWt0si8zBvdY2EAYjXnP+p1DaNaIHDCtA3w0BRlgB4FuXBU8ix35eAHWA==
+2026-06-24 11:54:25,699 [INFO] Successfully forwarded SMS to Profex: To=8291154628
+2026-06-24 12:00:40,617 [ERROR] Error in Vercel polling loop: 
+2026-06-24 12:01:27,625 [ERROR] Error in Vercel polling loop: 
+2026-06-24 12:09:49,846 [INFO] Fetched 1 new records from Vercel
+2026-06-24 12:09:49,847 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=IgBZ8J/neo8A5ZUms+n36y826+iN46FzO1GsOv58wu23siFrxSjAglC1rZb/zazY0BRlgB4FuXBU8ix35eAHWA==
+2026-06-24 12:09:50,464 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-24 12:31:25,618 [ERROR] Error in Vercel polling loop: 
+2026-06-24 12:35:23,618 [ERROR] Error in Vercel polling loop: 
+2026-06-24 13:00:31,072 [INFO] Initialized Vercel cursor to timestamp 1782278186113 without sending 41 historical messages.
+2026-06-24 13:03:18,071 [INFO] Fetched 1 new records from Vercel
+2026-06-24 13:03:18,071 [INFO] Forwarding SMS from Vercel: To=8448189635, Text=SUPERYES ppsJ3)bRTEg7jvNM80-rR?XdLH7VS4fHXDbjY
+2026-06-24 13:03:18,365 [INFO] Successfully forwarded SMS to Profex: To=8448189635
+2026-06-24 13:18:05,938 [WARNING] Error fetching path devices: Connection timeout to host https://pmkal-72db3-default-rtdb.firebaseio.com/devices.json?auth=AIzaSyA5WQrv7rj1mJ02ZVMW9adbDz4Bd4DRp5M
+2026-06-24 13:18:08,954 [WARNING] Error fetching path device_registry: Connection timeout to host https://pmkal-72db3-default-rtdb.firebaseio.com/device_registry.json?auth=AIzaSyA5WQrv7rj1mJ02ZVMW9adbDz4Bd4DRp5M
+2026-06-24 13:18:11,618 [ERROR] Error in Vercel polling loop: 
+2026-06-24 13:18:11,958 [WARNING] Error fetching path clients: Connection timeout to host https://pmkal-72db3-default-rtdb.firebaseio.com/clients.json?auth=AIzaSyA5WQrv7rj1mJ02ZVMW9adbDz4Bd4DRp5M
+2026-06-24 13:19:31,162 [INFO] Fetched 1 new records from Vercel
+2026-06-24 13:19:31,162 [INFO] Forwarding SMS from Vercel: To=7506097940, Text=KREDITBEEAXIS DO NOT COPY FORWARD OR SHARE THIS MESSAGE under any circumstance. ppfa1y)tMqkD-M&gxGM4g*8oBbkBe5er&8O!e
+2026-06-24 13:19:31,774 [INFO] Successfully forwarded SMS to Profex: To=7506097940
+2026-06-24 13:44:13,622 [ERROR] Error in Vercel polling loop: 
+2026-06-24 13:54:02,885 [INFO] Fetched 1 new records from Vercel
+2026-06-24 13:54:02,885 [INFO] Forwarding SMS from Vercel: To=9667405952, Text=DAKPAY kwM4u5Qgvrr/2YidhESI1+mTgggXDTKNdmLE/yV7iW9bozUrxl/JJYq9iI/JaDQgV6E3aXV3PdLIGqvwG/TZ+xJIY2jZa8XxtN5wdOLXEmFiga0uYA6K+Dz8rFnvx7H4
+2026-06-24 13:54:03,182 [INFO] Successfully forwarded SMS to Profex: To=9667405952
+2026-06-24 14:00:16,611 [ERROR] Error in Vercel polling loop: 
+2026-06-24 14:00:50,617 [ERROR] Error in Vercel polling loop: 
+2026-06-24 14:53:42,653 [INFO] Fetched 1 new records from Vercel
+2026-06-24 14:53:42,655 [INFO] Forwarding SMS from Vercel: To=7416652288, Text=ip+AyDRpJic6hwf0YF/Vz1wq4RLb/FMBcL7eIghT03udCJu27HPArkv4AGPH/2Wft+igGwWKa8QXgz0MXYOzIQ==
+2026-06-24 14:53:42,944 [INFO] Successfully forwarded SMS to Profex: To=7416652288
+2026-06-24 15:05:12,994 [INFO] Initialized Vercel cursor to timestamp 1782283185577 without sending 63 historical messages.
+2026-06-24 15:06:06,156 [INFO] Fetched 1 new records from Vercel
+2026-06-24 15:06:06,156 [INFO] Forwarding SMS from Vercel: To=7799022371, Text=poo5MLgDgeRwE4YuLCTaVzB5ikONsTTCp5TxymfTjBLbH4TdASJ5dnt4ObwXCGqNcDP/gANlFZHGkVfY6hZK1Q==
+2026-06-24 15:06:06,450 [INFO] Successfully forwarded SMS to Profex: To=7799022371
+2026-06-24 15:19:03,734 [INFO] Fetched 1 new records from Vercel
+2026-06-24 15:19:03,734 [INFO] Forwarding SMS from Vercel: To=9160012192, Text=7XpFDbT3EDSa5WEgbpw8UW+FZtin+z/kZazV9Qq7N60soBQzylvH1j7yDcXeK1LILh5/H8hQcfsKci8SJDD0IQ==
+2026-06-24 15:19:04,330 [INFO] Successfully forwarded SMS to Profex: To=9160012192
+2026-06-24 15:20:05,940 [WARNING] Error fetching path devices: Connection timeout to host https://kingu-2dbb9-default-rtdb.firebaseio.com/devices.json?auth=AIzaSyAvrn5IbeIs7z7r6rx12n7NluNHszglx6U
+2026-06-24 15:20:08,956 [WARNING] Error fetching path device_registry: Connection timeout to host https://kingu-2dbb9-default-rtdb.firebaseio.com/device_registry.json?auth=AIzaSyAvrn5IbeIs7z7r6rx12n7NluNHszglx6U
+2026-06-24 15:20:09,615 [ERROR] Error in Vercel polling loop: 
+2026-06-24 15:36:25,430 [INFO] Fetched 1 new records from Vercel
+2026-06-24 15:36:25,430 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=shtqkj/bwp6LQga/7kyVUZc3OHSJP0Z0pjR8kzJrFf/4nQeA6bp92kMJGOiS4A4idUxtGuos0nFiQn2iUxcUAQ==
+2026-06-24 15:36:25,724 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-24 15:52:06,114 [INFO] Fetched 1 new records from Vercel
+2026-06-24 15:52:06,115 [INFO] Forwarding SMS from Vercel: To=7799607940, Text=gWseoZKYUSQvYGApcqzATw/yYYN7KMY7MCWTaUCLbFvdEB8GXNpc+E6RzIHLC7NO3pCjVMgochKMlv+uRlNZNA==
+2026-06-24 15:52:06,725 [INFO] Successfully forwarded SMS to Profex: To=7799607940
+2026-06-24 15:52:29,965 [INFO] Fetched 1 new records from Vercel
+2026-06-24 15:52:29,966 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=8gw9b7y6PoqmGQLXmhrrGwQZ48duZ0XKRbHshWQLPHgq3G7FmOtw8UPBF9A7xAxuLIllboZ/ARatoNaJtWdZ7g==
+2026-06-24 15:52:30,253 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-24 15:53:53,246 [INFO] Fetched 1 new records from Vercel
+2026-06-24 15:53:53,246 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=x+mzxXhdZNm1+TMEkV9EXm5Dr2h8ShjaLBE7IIsa8HK7F1QzP5Ct1ctiGXRweijf3MaEzP/3EMfQcRHMrfY+BQ==
+2026-06-24 15:53:53,532 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-24 16:00:25,622 [ERROR] Error in Vercel polling loop: 
+2026-06-24 16:00:57,617 [ERROR] Error in Vercel polling loop: 
+2026-06-24 16:03:55,639 [INFO] Fetched 1 new records from Vercel
+2026-06-24 16:03:55,640 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=krjcnyBFw4uJF7paTMmuJgAzLTeYIYBJ2qf+mmPGymXo1AGnyFJFUlGu+9/uQD3uLIllboZ/ARatoNaJtWdZ7g==
+2026-06-24 16:03:55,930 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-24 16:04:27,965 [INFO] Fetched 1 new records from Vercel
+2026-06-24 16:04:27,965 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=HKptM1DB1LmiAgfgf47C65nM6JD5mRGB/CdH7qrj/rUWRh5z8raKAfHCsD1W6m3wLh5/H8hQcfsKci8SJDD0IQ==
+2026-06-24 16:04:28,979 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-24 19:46:05,662 [WARNING] Error fetching path devices: Connection timeout to host https://pmkal-72db3-default-rtdb.firebaseio.com/devices.json?auth=AIzaSyA5WQrv7rj1mJ02ZVMW9adbDz4Bd4DRp5M
+2026-06-24 19:46:08,674 [WARNING] Error fetching path device_registry: Connection timeout to host https://pmkal-72db3-default-rtdb.firebaseio.com/device_registry.json?auth=AIzaSyA5WQrv7rj1mJ02ZVMW9adbDz4Bd4DRp5M
+2026-06-24 19:46:11,688 [WARNING] Error fetching path clients: Connection timeout to host https://pmkal-72db3-default-rtdb.firebaseio.com/clients.json?auth=AIzaSyA5WQrv7rj1mJ02ZVMW9adbDz4Bd4DRp5M
+2026-06-24 19:46:12,620 [ERROR] Error in Vercel polling loop: 
+2026-06-24 19:46:13,724 [WARNING] Error fetching path device_status: Cannot connect to host pmkal-72db3-default-rtdb.firebaseio.com:443 ssl:default [getaddrinfo failed]
+2026-06-24 19:56:29,380 [INFO] Fetched 1 new records from Vercel
+2026-06-24 19:56:29,383 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=ifTASIhqt2kmtvV0U9vJqro9uzHe5LOky8b4eTXmXPeIv/0WrOYqO0GHl9NeYFErdUxtGuos0nFiQn2iUxcUAQ==
+2026-06-24 19:56:30,368 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-24 19:56:39,252 [INFO] Fetched 1 new records from Vercel
+2026-06-24 19:56:39,253 [INFO] Forwarding SMS from Vercel: To=7799792957, Text=8lXkIbabfTENgDzfCtalXxJ8rK15xjaKbnPqZcdRRSDSQYizq2KK8qK2z2OzB5epLIllboZ/ARatoNaJtWdZ7g==
+2026-06-24 19:56:39,563 [INFO] Successfully forwarded SMS to Profex: To=7799792957
+2026-06-24 20:00:36,620 [ERROR] Error in Vercel polling loop: 
+2026-06-24 20:05:00,622 [ERROR] Error in Vercel polling loop: 
+2026-06-24 20:06:04,403 [INFO] Fetched 1 new records from Vercel
+2026-06-24 20:06:04,403 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=MsONzr2g8nqa66Org4h1mUWk6zFJ8d8nFw9xF06gXO7iANy9ihu2FaKpOGZUzjvULIllboZ/ARatoNaJtWdZ7g==
+2026-06-24 20:06:04,692 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-24 20:06:17,617 [ERROR] Error in Vercel polling loop: 
+2026-06-24 20:06:19,612 [WARNING] Error fetching path devices: 
+2026-06-24 20:29:43,169 [INFO] Fetched 1 new records from Vercel
+2026-06-24 20:29:43,174 [INFO] Forwarding SMS from Vercel: To=9160012192, Text=X5G9ouC+v3AmPCDiQRu97DtNv84Y+QtRrhiQjqIoO0w9sK71V7qombC87waKFSa6KZIL4P0VQs+f8Kou6T0Izw==
+2026-06-24 20:29:43,487 [INFO] Successfully forwarded SMS to Profex: To=9160012192
+2026-06-24 20:29:56,875 [INFO] Fetched 1 new records from Vercel
+2026-06-24 20:29:56,876 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=fRupmmkmFu6aPVh5qrMVvk1RggPO+fLdf+xmZiJr5R2Bd8SeI64p+xHyRw4gl8K+cDP/gANlFZHGkVfY6hZK1Q==
+2026-06-24 20:29:57,528 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-24 20:51:38,762 [INFO] Fetched 1 new records from Vercel
+2026-06-24 20:51:38,764 [INFO] Forwarding SMS from Vercel: To=9160012192, Text=GfFi1582GwTiZUfWy9PzYwrmaueZAzhV5S7U9Jc2wshIh57rW1z+9q7YuNCd1XcI0BRlgB4FuXBU8ix35eAHWA==
+2026-06-24 20:51:39,394 [INFO] Successfully forwarded SMS to Profex: To=9160012192
+2026-06-24 20:51:55,907 [INFO] Fetched 1 new records from Vercel
+2026-06-24 20:51:55,907 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=Pqcf0id6KVUXwnM8yCON3D3hypexBJK/DPHSut84LMZhbLcYjnIuP1tBPAPAroLy3pCjVMgochKMlv+uRlNZNA==
+2026-06-24 20:51:56,211 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-24 20:52:45,995 [INFO] Fetched 1 new records from Vercel
+2026-06-24 20:52:45,996 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=svB7OSiZLHeOsUp0if4KNWUrxn1HPEudTAuMjwQ5DLgHTfoMAHYteic6KLjRe3JsLh5/H8hQcfsKci8SJDD0IQ==
+2026-06-24 20:52:46,286 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-24 20:56:43,677 [INFO] Fetched 1 new records from Vercel
+2026-06-24 20:56:43,677 [INFO] Forwarding SMS from Vercel: To=9160012192, Text=a2DKGB6jIneU7nA0duT84Ww9sxPoJICQw+XgVXe0wgJp4C+lwWCHNGXMdFJTENFot+igGwWKa8QXgz0MXYOzIQ==
+2026-06-24 20:56:43,971 [INFO] Successfully forwarded SMS to Profex: To=9160012192
+2026-06-24 21:08:34,352 [INFO] Fetched 1 new records from Vercel
+2026-06-24 21:08:34,353 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=pEJng4r61OjH+UMCbfrfUo/IBJponOX3WcdxtpL3AWVFa2kDfJiBZ2D8Rwr4/vhLt+igGwWKa8QXgz0MXYOzIQ==
+2026-06-24 21:08:34,649 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-24 21:08:51,934 [INFO] Fetched 1 new records from Vercel
+2026-06-24 21:08:51,935 [INFO] Forwarding SMS from Vercel: To=7799792957, Text=TeSIaupcFH0MLRBfTrUDGr3eQU5swDtotZVB8X26Lh8+YUZgAJGVC7ypdvdf7An1x4N1weVoJG0XO9jqyXgc2g==
+2026-06-24 21:08:52,226 [INFO] Successfully forwarded SMS to Profex: To=7799792957
+2026-06-24 21:09:07,114 [INFO] Fetched 1 new records from Vercel
+2026-06-24 21:09:07,114 [INFO] Forwarding SMS from Vercel: To=7416652288, Text=SD9CmQt2iN0QIttTp7piZ7OhJop2hYO2bAf2NnTnaGT1mNOtcJcwB+9usEJC+sSix4N1weVoJG0XO9jqyXgc2g==
+2026-06-24 21:09:07,512 [INFO] Successfully forwarded SMS to Profex: To=7416652288
+2026-06-24 21:30:30,242 [INFO] Fetched 1 new records from Vercel
+2026-06-24 21:30:30,243 [INFO] Forwarding SMS from Vercel: To=8291154718, Text=XfLVl33goxdaY5nm6QM47WRM05SVioE4UBGGVigx7710K8uQO1LpElhAFE5dAQXkKZIL4P0VQs+f8Kou6T0Izw==
+2026-06-24 21:30:31,047 [INFO] Successfully forwarded SMS to Profex: To=8291154718
+2026-06-24 21:30:48,708 [INFO] Fetched 1 new records from Vercel
+2026-06-24 21:30:48,708 [INFO] Forwarding SMS from Vercel: To=7416652288, Text=Zbh2dXy69NPyjC1EMbCwvQBJVbvpEyfyKen3MNmOBFYotuz9tJ/GD8q+mH9mOGvTcDP/gANlFZHGkVfY6hZK1Q==
+2026-06-24 21:30:49,010 [INFO] Successfully forwarded SMS to Profex: To=7416652288
+2026-06-24 21:30:57,734 [INFO] Fetched 1 new records from Vercel
+2026-06-24 21:30:57,734 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=Omo0NTUMwIKir+hbmK6j/0XpJa6C4uw6sUyjAShhM/FMDaHzq5vxzaHJP/4zWdL0x4N1weVoJG0XO9jqyXgc2g==
+2026-06-24 21:30:58,027 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-24 21:32:49,512 [INFO] Fetched 1 new records from Vercel
+2026-06-24 21:32:49,512 [INFO] Forwarding SMS from Vercel: To=9160012192, Text=twV8DAT9Jf4em6veg2YAvLYep9PzUGiB4g8++u9ts4hOMIXTWgG0JI32+yDQYQfEcDP/gANlFZHGkVfY6hZK1Q==
+2026-06-24 21:32:49,815 [INFO] Successfully forwarded SMS to Profex: To=9160012192
+2026-06-24 21:35:24,845 [INFO] Fetched 1 new records from Vercel
+2026-06-24 21:35:24,846 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=coeIJKUWmQJBl9VsJ+0804dGXEzUyXolEcuIk4JTcHxcEyGTQfbv9ojI47Pg3sEAdUxtGuos0nFiQn2iUxcUAQ==
+2026-06-24 21:35:25,492 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-24 21:37:19,274 [INFO] Fetched 1 new records from Vercel
+2026-06-24 21:37:19,274 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=VZ43hFG1IFWs+3t/hGiMgMXuCkdJykUQpMz/d4mnc6UQ6zhgPSVGCKa/dBhZtzu7cDP/gANlFZHGkVfY6hZK1Q==
+2026-06-24 21:37:19,550 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-24 21:37:36,934 [ERROR] Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-06-24 21:49:04,386 [INFO] Fetched 1 new records from Vercel
+2026-06-24 21:49:04,386 [INFO] Forwarding SMS from Vercel: To=8291154718, Text=YxoNEJLC+CkHfZ5P/8cx7d6jmKJheyZrLn7fJXPhNENvKoROKX+rHhP8gWMIWdwxcDP/gANlFZHGkVfY6hZK1Q==
+2026-06-24 21:49:04,695 [INFO] Successfully forwarded SMS to Profex: To=8291154718
+2026-06-24 21:53:18,715 [INFO] Fetched 1 new records from Vercel
+2026-06-24 21:53:18,715 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=lSExgO2Zg6aXgrSPc9R5TBmAxmvNnyp/ykrdo3jO9u8t2ePg+ihXMdc6fngCk47i3pCjVMgochKMlv+uRlNZNA==
+2026-06-24 21:53:19,349 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-24 22:00:22,619 [ERROR] Error in Vercel polling loop: 
+2026-06-24 22:00:53,616 [ERROR] Error in Vercel polling loop: 
+2026-06-24 22:34:44,627 [ERROR] Error in Vercel polling loop: 
+2026-06-24 23:01:05,671 [WARNING] Error fetching path devices: Connection timeout to host https://ravan-id-default-rtdb.firebaseio.com/devices.json?auth=AIzaSyAwlMIHi7pY8xRBqmplho8Mukp3Q-YxGl4
+2026-06-25 00:00:14,618 [ERROR] Error in Vercel polling loop: 
+2026-06-25 00:03:52,619 [ERROR] Error in Vercel polling loop: 
+2026-06-25 02:00:20,623 [ERROR] Error in Vercel polling loop: 
+2026-06-25 02:00:58,618 [ERROR] Error in Vercel polling loop: 
+2026-06-25 04:00:18,624 [ERROR] Error in Vercel polling loop: 
+2026-06-25 04:00:57,619 [ERROR] Error in Vercel polling loop: 
+2026-06-25 04:07:25,614 [ERROR] Error in Vercel polling loop: 
+2026-06-25 04:38:28,271 [INFO] Fetched 1 new records from Vercel
+2026-06-25 04:38:28,273 [INFO] Forwarding SMS from Vercel: To=9160012192, Text=r1GpAfnunGb03m5wUtHDuJgOUWZ0tEan/7zp501aRDQC55th4TBNG0h93xqFm2cXcDP/gANlFZHGkVfY6hZK1Q==
+2026-06-25 04:38:28,687 [INFO] Successfully forwarded SMS to Profex: To=9160012192
+2026-06-25 04:38:40,277 [INFO] Fetched 1 new records from Vercel
+2026-06-25 04:38:40,277 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=UCRKUppdHtO6D+b3Dgt1h7X8CyBRfGJzZF/Hs4HtVz8C55th4TBNG0h93xqFm2cX0BRlgB4FuXBU8ix35eAHWA==
+2026-06-25 04:38:40,560 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-25 04:48:17,249 [INFO] Fetched 1 new records from Vercel
+2026-06-25 04:48:17,249 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=Ez/xyVXNv4Td0WCb30YeeXLrHH29sfp/lSteXE/hqyWliPOzpsv7J05fNHS4G/TGdUxtGuos0nFiQn2iUxcUAQ==
+2026-06-25 04:48:17,839 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-25 04:48:26,527 [INFO] Fetched 1 new records from Vercel
+2026-06-25 04:48:26,527 [INFO] Forwarding SMS from Vercel: To=7799607940, Text=PlHr2sXAtmgwGbbOWwyjnzSHugAdjyZai0hMetzhoqMRADZc3Q6nl9x2//hyaQmEt+igGwWKa8QXgz0MXYOzIQ==
+2026-06-25 04:48:26,810 [INFO] Successfully forwarded SMS to Profex: To=7799607940
+2026-06-25 05:04:05,919 [INFO] Fetched 1 new records from Vercel
+2026-06-25 05:04:05,921 [INFO] Forwarding SMS from Vercel: To=8291154628, Text=Vziuaw3EcW/Bgkvzpu/B73vVTL6gj9R77VO2mcQ3Z/jbw1FedTSv1ErCGDhqNkcJ0BRlgB4FuXBU8ix35eAHWA==
+2026-06-25 05:04:06,532 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 05:04:06,532 [INFO] Successfully forwarded SMS to Profex: To=8291154628
+2026-06-25 05:15:04,212 [INFO] Fetched 1 new records from Vercel
+2026-06-25 05:15:04,214 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=BqcnolmzquwKkYPzgmU9PvOzzHggiB49VCc+QKyVLG+zZG3Aiphy2duKls6oTsCbKZIL4P0VQs+f8Kou6T0Izw==
+2026-06-25 05:15:04,513 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 05:15:04,514 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-25 05:24:43,400 [INFO] Fetched 1 new records from Vercel
+2026-06-25 05:24:43,400 [INFO] Forwarding SMS from Vercel: To=7799607940, Text=f39jwugPoHy1a6FIHQ3s9W3DbX4Spnt88FlSgdCZxbYB2AT1xmQgXues3JoOG9DvcDP/gANlFZHGkVfY6hZK1Q==
+2026-06-25 05:24:43,683 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 05:24:43,684 [INFO] Successfully forwarded SMS to Profex: To=7799607940
+2026-06-25 05:24:52,505 [INFO] Fetched 1 new records from Vercel
+2026-06-25 05:24:52,505 [INFO] Forwarding SMS from Vercel: To=7799792957, Text=HRRJCcJppr3dXl8Rr/N2Cubl4GKeLpCEENMeiJxJixOFHMAtNvCi1T0jJ69G84DDt+igGwWKa8QXgz0MXYOzIQ==
+2026-06-25 05:24:52,786 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 05:24:52,786 [INFO] Successfully forwarded SMS to Profex: To=7799792957
+2026-06-25 05:30:31,083 [INFO] Fetched 1 new records from Vercel
+2026-06-25 05:30:31,084 [INFO] Forwarding SMS from Vercel: To=8291154628, Text=VketjJsUqntOS4YUMijHIzZavuMw7OJQjRqbRVhdLcymu15/dqWWnnPktCx2cWRC3MaEzP/3EMfQcRHMrfY+BQ==
+2026-06-25 05:30:31,369 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 05:30:31,369 [INFO] Successfully forwarded SMS to Profex: To=8291154628
+2026-06-25 05:36:21,730 [INFO] Fetched 1 new records from Vercel
+2026-06-25 05:36:21,730 [INFO] Forwarding SMS from Vercel: To=8291154718, Text=jtlI/vBag+wEE5MdN4L3DH0c2JrADVs26KdGVcedRQd7pMFselXBmoEEbYbSvY1Zt+igGwWKa8QXgz0MXYOzIQ==
+2026-06-25 05:36:22,449 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 05:36:22,449 [INFO] Successfully forwarded SMS to Profex: To=8291154718
+2026-06-25 05:44:34,614 [INFO] Fetched 1 new records from Vercel
+2026-06-25 05:44:34,614 [INFO] Forwarding SMS from Vercel: To=7799792957, Text=RibbMC+wiFc9F7DquQ25vYUOkhStQs68TH2gpjatAGFUB4VPu6FtuTtKdx59g072Lh5/H8hQcfsKci8SJDD0IQ==
+2026-06-25 05:44:34,897 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 05:44:34,897 [INFO] Successfully forwarded SMS to Profex: To=7799792957
+2026-06-25 05:44:49,266 [INFO] Fetched 1 new records from Vercel
+2026-06-25 05:44:49,267 [INFO] Forwarding SMS from Vercel: To=8291154628, Text=U0uD0NLrTvnWjm9/MfWpbeameBw6TPnazcTY4rY2wNtUB4VPu6FtuTtKdx59g0723MaEzP/3EMfQcRHMrfY+BQ==
+2026-06-25 05:44:49,550 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 05:44:49,550 [INFO] Successfully forwarded SMS to Profex: To=8291154628
+2026-06-25 05:47:35,020 [INFO] Fetched 1 new records from Vercel
+2026-06-25 05:47:35,020 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=x0T4jN0sfsnkP3Hg3WxfUQPL8pIG9Ug3GWJzTYBNtHj1cYH1uVdsfJb5FHV1/C1y3MaEzP/3EMfQcRHMrfY+BQ==
+2026-06-25 05:47:35,637 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 05:47:35,637 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-25 05:52:53,888 [INFO] Fetched 1 new records from Vercel
+2026-06-25 05:52:53,889 [INFO] Forwarding SMS from Vercel: To=7799607940, Text=gcsuruXO+FN2kKmJty6vXOB2TBepw5wHEiw2CNlmrDW7wuHMWfPs3zPxZIXNqdPIt+igGwWKa8QXgz0MXYOzIQ==
+2026-06-25 05:52:54,516 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 05:52:54,517 [INFO] Successfully forwarded SMS to Profex: To=7799607940
+2026-06-25 05:53:03,182 [INFO] Fetched 1 new records from Vercel
+2026-06-25 05:53:03,182 [INFO] Forwarding SMS from Vercel: To=8291154628, Text=pw4iyeEq0Lgo7bsNsoxn+okvUzi0XZ/MGrOW+R1xzPy7wuHMWfPs3zPxZIXNqdPI3MaEzP/3EMfQcRHMrfY+BQ==
+2026-06-25 05:53:03,469 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 05:53:03,470 [INFO] Successfully forwarded SMS to Profex: To=8291154628
+2026-06-25 05:57:09,454 [INFO] Fetched 1 new records from Vercel
+2026-06-25 05:57:09,455 [INFO] Forwarding SMS from Vercel: To=7416652288, Text=Ge7bUgAKGYOdOxKitutM8iqfcxQS5h6KoUcroDVAUtJ4Z0en9u9sLpuiZeEncvqtKZIL4P0VQs+f8Kou6T0Izw==
+2026-06-25 05:57:09,744 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 05:57:09,744 [INFO] Successfully forwarded SMS to Profex: To=7416652288
+2026-06-25 06:00:15,622 [ERROR] Error in Vercel polling loop: 
+2026-06-25 06:00:57,623 [ERROR] Error in Vercel polling loop: 
+2026-06-25 06:05:09,235 [INFO] Fetched 1 new records from Vercel
+2026-06-25 06:05:09,235 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=A3e2LTDhNFLlIRElzrwICMh9HKe9grN8U9khwPVeRYBO9TRrkdGyijOXmguLie5hdUxtGuos0nFiQn2iUxcUAQ==
+2026-06-25 06:05:09,832 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 06:05:09,832 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-25 06:05:19,904 [INFO] Fetched 1 new records from Vercel
+2026-06-25 06:05:19,905 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=v/XRIThzXZ8eAX3Fq/fIbklM9OeVh66FX449ntN78av6XFtyZtzwnkx4pR8r0HAbt+igGwWKa8QXgz0MXYOzIQ==
+2026-06-25 06:05:20,190 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 06:05:20,190 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-25 06:12:58,548 [INFO] Fetched 1 new records from Vercel
+2026-06-25 06:12:58,549 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=RYI55AEBVDyBHg/Cya/MCedvby19tLvwamBbUsOsMiDzbPJI6gLBWwNyry2KSaabLIllboZ/ARatoNaJtWdZ7g==
+2026-06-25 06:12:58,844 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 06:12:58,844 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-25 06:35:59,551 [INFO] Fetched 1 new records from Vercel
+2026-06-25 06:35:59,552 [INFO] Forwarding SMS from Vercel: To=8291154718, Text=+j2278+EYncfezIo9AC3mcJ2jcJoQ+InGFjRNHXmoiz2zKOo1DecjAEkC6JjO2uQ0BRlgB4FuXBU8ix35eAHWA==
+2026-06-25 06:36:00,174 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 06:36:00,174 [INFO] Successfully forwarded SMS to Profex: To=8291154718
+2026-06-25 06:36:10,382 [INFO] Fetched 1 new records from Vercel
+2026-06-25 06:36:10,382 [INFO] Forwarding SMS from Vercel: To=7799022371, Text=a17RPq5XQUY53XCTM0GAPexWDQI1LRUzUAQqbeKh1S/zQQcscZslyEelMBbMGv6dx4N1weVoJG0XO9jqyXgc2g==
+2026-06-25 06:36:10,668 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 06:36:10,668 [INFO] Successfully forwarded SMS to Profex: To=7799022371
+2026-06-25 06:44:14,011 [INFO] Fetched 1 new records from Vercel
+2026-06-25 06:44:14,011 [INFO] Forwarding SMS from Vercel: To=7416652288, Text=BJL/w71KRBSrZ8Cl/TSaySmu5YArl8tP+3hewvhxk1Z66c4axIjSYsMVG3eurvlQ3pCjVMgochKMlv+uRlNZNA==
+2026-06-25 06:44:14,624 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 06:44:14,625 [INFO] Successfully forwarded SMS to Profex: To=7416652288
+2026-06-25 06:53:09,539 [INFO] Fetched 1 new records from Vercel
+2026-06-25 06:53:09,540 [INFO] Forwarding SMS from Vercel: To=7799792957, Text=tvJ8VbRWhNTmhULVZ5L37cj6ACmcM57ppJ8aPeWNAFkxbs2BZ11tGp7pVYBr/RDbx4N1weVoJG0XO9jqyXgc2g==
+2026-06-25 06:53:09,935 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 06:53:09,935 [INFO] Successfully forwarded SMS to Profex: To=7799792957
+2026-06-25 07:00:20,426 [INFO] Fetched 1 new records from Vercel
+2026-06-25 07:00:20,426 [INFO] Forwarding SMS from Vercel: To=7799022371, Text=UtkesENyOklzvXoquOPGRs6yDKjilWcjCevi2DDkGaT0NO6SzdmFOz/GFvMo3lxDcDP/gANlFZHGkVfY6hZK1Q==
+2026-06-25 07:00:21,024 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 07:00:21,024 [INFO] Successfully forwarded SMS to Profex: To=7799022371
+2026-06-25 07:00:34,079 [INFO] Fetched 1 new records from Vercel
+2026-06-25 07:00:34,079 [INFO] Forwarding SMS from Vercel: To=7799607940, Text=34JwPHTX3MHDVBlWermnzGNBMjpRKVt4OdDA1F4XOseiKnDA74zx1AIZgJ9gFnxS3pCjVMgochKMlv+uRlNZNA==
+2026-06-25 07:00:34,364 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 07:00:34,365 [INFO] Successfully forwarded SMS to Profex: To=7799607940
+2026-06-25 07:17:46,058 [INFO] Fetched 1 new records from Vercel
+2026-06-25 07:17:46,058 [INFO] Forwarding SMS from Vercel: To=8291154718, Text=REDgrDJvLtYJUw8vcL7HMuCiV+ajPCB0xaWcpp89Dm63Uk5pBx+NgUdwAg0I4BH9dUxtGuos0nFiQn2iUxcUAQ==
+2026-06-25 07:17:46,355 [INFO] Successfully forwarded SMS to Profex: To=8291154718
+2026-06-25 07:20:04,615 [ERROR] Error in Vercel polling loop: 
+2026-06-25 07:24:28,506 [INFO] Fetched 1 new records from Vercel
+2026-06-25 07:24:28,506 [INFO] Forwarding SMS from Vercel: To=9160012192, Text=hflatAxtpLADSYELeHYeDSURlqgs3UpfEZoAhfr9QtqYVJKaR0XwaGT7CZGXWisb0BRlgB4FuXBU8ix35eAHWA==
+2026-06-25 07:24:28,787 [INFO] Successfully forwarded SMS to Profex: To=9160012192
+2026-06-25 07:27:06,383 [INFO] Fetched 1 new records from Vercel
+2026-06-25 07:27:06,384 [INFO] Forwarding SMS from Vercel: To=7799607940, Text=7Oos8qhRN84n8Z9HfoDbonyUunqViFnK1X6okGk2fiqXQGchqInRKygu0MC29MBLLh5/H8hQcfsKci8SJDD0IQ==
+2026-06-25 07:27:06,672 [INFO] Successfully forwarded SMS to Profex: To=7799607940
+2026-06-25 07:29:14,992 [INFO] Fetched 1 new records from Vercel
+2026-06-25 07:29:14,993 [INFO] Forwarding SMS from Vercel: To=7799022371, Text=OKgQVyPcP0UZBCpz6In2DnaHKMIbhTEsHmC4R7sqdS6jg4isjKSsyPZXXfaqNhhxx4N1weVoJG0XO9jqyXgc2g==
+2026-06-25 07:29:15,612 [INFO] Successfully forwarded SMS to Profex: To=7799022371
+2026-06-25 07:43:33,643 [INFO] Fetched 1 new records from Vercel
+2026-06-25 07:43:33,645 [INFO] Forwarding SMS from Vercel: To=7416652288, Text=FfQhKKTaKyUG1frIbEPhD10Zmjyx03X2buJ3XnTRA6JeXkLNFu+2rj9Vk15QS/b5LIllboZ/ARatoNaJtWdZ7g==
+2026-06-25 07:43:33,938 [INFO] Successfully forwarded SMS to Profex: To=7416652288
+2026-06-25 07:52:12,874 [INFO] Fetched 1 new records from Vercel
+2026-06-25 07:52:12,874 [INFO] Forwarding SMS from Vercel: To=7799022371, Text=CgdAcJPzTY2cq8HcQWeYHsfAbgQPjQPCggUzUpGk4STEgU1Jxvsvaw65q0bn9L6ddUxtGuos0nFiQn2iUxcUAQ==
+2026-06-25 07:52:13,158 [INFO] Successfully forwarded SMS to Profex: To=7799022371
+2026-06-25 08:00:13,613 [ERROR] Error in Vercel polling loop: 
+2026-06-25 08:00:48,612 [ERROR] Error in Vercel polling loop: 
+2026-06-25 08:01:13,647 [INFO] Fetched 1 new records from Vercel
+2026-06-25 08:01:13,648 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=K9PAtA5sf1mDVM04JZ3i1RSEQijO9y7P84U4wuUOm4lQhIYjZD18HHDAm26Uo2AEx4N1weVoJG0XO9jqyXgc2g==
+2026-06-25 08:01:13,940 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-25 08:01:34,418 [INFO] Fetched 1 new records from Vercel
+2026-06-25 08:01:34,419 [INFO] Forwarding SMS from Vercel: To=8291154628, Text=ZqunOWNjiykG1XUOuzqA/wqLA6hN9XCtrv+VL6K0Ciw1uwbmEeIDhbF1mmm6WisQx4N1weVoJG0XO9jqyXgc2g==
+2026-06-25 08:01:34,705 [INFO] Successfully forwarded SMS to Profex: To=8291154628
+2026-06-25 08:01:55,284 [INFO] Fetched 1 new records from Vercel
+2026-06-25 08:01:55,284 [INFO] Forwarding SMS from Vercel: To=7799792957, Text=WO4k/7TzRK7XfplLPnVa5HKscRsYzSPIpfp6OP48xLEF6UEQr42REJ5Mhcete9cmLIllboZ/ARatoNaJtWdZ7g==
+2026-06-25 08:01:55,574 [INFO] Successfully forwarded SMS to Profex: To=7799792957
+2026-06-25 08:03:14,575 [INFO] Fetched 1 new records from Vercel
+2026-06-25 08:03:14,575 [INFO] Forwarding SMS from Vercel: To=8291154628, Text=2stKe12MhZM7RCZcJmit1iid9Jn8DqnPMFijsfbKSEYu6ZrtIlTY+kPuLIGniJ0TLIllboZ/ARatoNaJtWdZ7g==
+2026-06-25 08:03:14,863 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 08:03:14,863 [INFO] Successfully forwarded SMS to Profex: To=8291154628
+2026-06-25 08:07:50,716 [INFO] Fetched 1 new records from Vercel
+2026-06-25 08:07:50,717 [INFO] Forwarding SMS from Vercel: To=9160012192, Text=uTrOoTL4WpQU43G6EQaKU6GT9RxbdissvMTy/YOwePDJGEYx05Vg9ATQhVegBolH3MaEzP/3EMfQcRHMrfY+BQ==
+2026-06-25 08:07:51,329 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 08:07:51,329 [INFO] Successfully forwarded SMS to Profex: To=9160012192
+2026-06-25 08:32:52,065 [INFO] Fetched 1 new records from Vercel
+2026-06-25 08:32:52,066 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=gIGHM5x04ulzEDmjy8pKB5TEed6O1VNcrYsZz4ahL5l59PlHnRUxxtD7u2j2dHABLh5/H8hQcfsKci8SJDD0IQ==
+2026-06-25 08:32:52,354 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 08:32:52,355 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-25 08:36:52,437 [INFO] Fetched 1 new records from Vercel
+2026-06-25 08:36:52,438 [INFO] Forwarding SMS from Vercel: To=7799607940, Text=9P693EvxNiLQv7gv5Cvx0Nm5nqnUFs3xEZ1Luau4EFRVlhNlzMN/xHG402ESBnzvLIllboZ/ARatoNaJtWdZ7g==
+2026-06-25 08:36:52,731 [ERROR] Error writing to audit log: [Errno 28] No space left on device
+2026-06-25 08:36:52,732 [INFO] Successfully forwarded SMS to Profex: To=7799607940
+2026-06-25 08:41:08,745 [INFO] Fetched 1 new records from Vercel
+2026-06-25 08:41:08,746 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=djPLu0a3NL30H02iBnL+t5+PrQz7XGRxrAdqkL7nMylLqEOs8c0d8B2gCkj8oKKx0BRlgB4FuXBU8ix35eAHWA==
+2026-06-25 08:41:09,350 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-25 08:52:28,786 [INFO] Fetched 1 new records from Vercel
+2026-06-25 08:52:28,787 [INFO] Forwarding SMS from Vercel: To=7799022371, Text=gDDIoWwK+JtfbJRyt/o/NPfd6oHoAAQZM4M1tB/FjFvvtFNOJ2xt/HHhx3OSLKmpLIllboZ/ARatoNaJtWdZ7g==
+2026-06-25 08:52:29,434 [INFO] Successfully forwarded SMS to Profex: To=7799022371
+2026-06-25 08:52:36,718 [INFO] Fetched 1 new records from Vercel
+2026-06-25 08:52:36,719 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=EimCkGxfd/L7SVJvyemNNw66pnJiSB8HTCB4iv9jDuDA+2+fR6Mmg/Icp5ZYy440cDP/gANlFZHGkVfY6hZK1Q==
+2026-06-25 08:52:37,005 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-25 08:59:07,470 [WARNING] Error fetching path devices: Connection timeout to host https://mafiaaaa2oppp-default-rtdb.firebaseio.com/devices.json?auth=AIzaSyBl3179G60c2LzYPrbkp4tmuRKK_7H0_0g
+2026-06-25 08:59:09,422 [ERROR] Error in Vercel polling loop: 
+2026-06-25 10:00:19,418 [ERROR] Error in Vercel polling loop: 
+2026-06-25 10:01:00,406 [ERROR] Error in Vercel polling loop: 
+2026-06-25 12:00:15,417 [ERROR] Error in Vercel polling loop: 
+2026-06-25 12:00:52,416 [ERROR] Error in Vercel polling loop: 
+2026-06-25 12:27:10,331 [INFO] Initialized Vercel cursor to timestamp 1782357754906 without sending 100 historical messages.
+2026-06-25 12:29:48,580 [INFO] Fetched 1 new records from Vercel
+2026-06-25 12:29:48,580 [INFO] Forwarding SMS from Vercel: To=8291154628, Text=Thxy4XQCe4Gv2YS8UZibsp3AqJlj7tH2+pjKVSs49zenfiY/iZBYCwFiGs/iFR9HLh5/H8hQcfsKci8SJDD0IQ==
+2026-06-25 12:29:49,198 [INFO] Successfully forwarded SMS to Profex: To=8291154628
+2026-06-25 12:29:58,013 [INFO] Fetched 1 new records from Vercel
+2026-06-25 12:29:58,014 [INFO] Forwarding SMS from Vercel: To=7799022371, Text=eWHDRk0uwXWwCn661efzQSkGEn00jTj53Y7iDNGG2KEkRIuPPJIx+ZQP6X/nC2bN3MaEzP/3EMfQcRHMrfY+BQ==
+2026-06-25 12:29:58,307 [INFO] Successfully forwarded SMS to Profex: To=7799022371
+2026-06-25 13:16:26,422 [ERROR] Error in Vercel polling loop: 
+2026-06-25 13:44:41,006 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:44:42,019 [WARNING] Error fetching path devices: Cannot connect to host topx-e09c6-default-rtdb.firebaseio.com:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:44:42,025 [WARNING] Error fetching path device_registry: Cannot connect to host topx-e09c6-default-rtdb.firebaseio.com:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:44:42,031 [WARNING] Error fetching path clients: Cannot connect to host topx-e09c6-default-rtdb.firebaseio.com:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:44:42,037 [WARNING] Error fetching path device_status: Cannot connect to host topx-e09c6-default-rtdb.firebaseio.com:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:44:42,052 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:44:43,069 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:44:44,094 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:44:45,105 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:44:46,114 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:44:47,133 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:44:48,151 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:44:49,168 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:44:50,184 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:46:57,227 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:46:58,248 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:46:58,442 [WARNING] Error fetching path devices: Cannot connect to host topx-e09c6-default-rtdb.firebaseio.com:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:46:58,445 [WARNING] Error fetching path device_registry: Cannot connect to host topx-e09c6-default-rtdb.firebaseio.com:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:46:58,462 [WARNING] Error fetching path clients: Cannot connect to host topx-e09c6-default-rtdb.firebaseio.com:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:46:58,467 [WARNING] Error fetching path device_status: Cannot connect to host topx-e09c6-default-rtdb.firebaseio.com:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:46:59,263 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:47:00,280 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:47:01,292 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:47:02,312 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:47:03,332 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:47:04,340 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:47:05,346 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:47:06,354 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:59:41,216 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:59:42,235 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 13:59:49,416 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [The network path was not found]
+2026-06-25 13:59:50,428 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [The network path was not found]
+2026-06-25 14:08:35,590 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 14:08:36,610 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 14:08:37,668 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 14:08:38,985 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 14:08:39,397 [WARNING] Error fetching path devices: Cannot connect to host topx-e09c6-default-rtdb.firebaseio.com:443 ssl:default [getaddrinfo failed]
+2026-06-25 14:08:39,484 [WARNING] Error fetching path device_registry: Cannot connect to host topx-e09c6-default-rtdb.firebaseio.com:443 ssl:default [getaddrinfo failed]
+2026-06-25 14:08:39,495 [WARNING] Error fetching path clients: Cannot connect to host topx-e09c6-default-rtdb.firebaseio.com:443 ssl:default [getaddrinfo failed]
+2026-06-25 14:08:39,516 [WARNING] Error fetching path device_status: Cannot connect to host topx-e09c6-default-rtdb.firebaseio.com:443 ssl:default [getaddrinfo failed]
+2026-06-25 14:08:40,531 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 14:23:38,238 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-25 14:59:06,132 [INFO] Fetched 1 new records from Vercel
+2026-06-25 14:59:06,134 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=bZICpIxpQX+QsNb7pG8EqiSXUzSgLhkXgEMrK+zl8GfwTBBYsXk6yanwzTnA2CDzLIllboZ/ARatoNaJtWdZ7g==
+2026-06-25 14:59:06,792 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-25 14:59:14,105 [INFO] Fetched 1 new records from Vercel
+2026-06-25 14:59:14,106 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=lVnMQLKG+nnCJUqZafwJTxbqw4/MjgBl8bd64SmBazhkIf6Jjx5dpuE8ZT+Cu5Ry3pCjVMgochKMlv+uRlNZNA==
+2026-06-25 14:59:14,392 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-25 14:59:49,192 [INFO] Fetched 1 new records from Vercel
+2026-06-25 14:59:49,192 [INFO] Forwarding SMS from Vercel: To=7799607940, Text=opgF9CU0MS61TDIFoL6UU1AEV5YkxljlACv4V1bQhcpJBroRcwbFpuY5rcKP1BE5dUxtGuos0nFiQn2iUxcUAQ==
+2026-06-25 14:59:49,487 [INFO] Successfully forwarded SMS to Profex: To=7799607940
+2026-06-25 15:00:09,896 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:00:09,896 [INFO] Forwarding SMS from Vercel: To=7799022371, Text=+UfdPC7zIcM4zvz/3jEI1lzr0Mm3ncSb1ai6mHhZS6SAgSCcNLMsAsHQ6wSSW/KpLh5/H8hQcfsKci8SJDD0IQ==
+2026-06-25 15:00:10,187 [INFO] Successfully forwarded SMS to Profex: To=7799022371
+2026-06-25 15:00:18,945 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:00:18,945 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=FNOfB4QcpvcFXUftoEh639iTxatyL9cgzTgmXTQSrcyuwdTSbLq6qol4myHrge5jdUxtGuos0nFiQn2iUxcUAQ==
+2026-06-25 15:00:19,240 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-25 15:01:46,754 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:01:46,755 [INFO] Forwarding SMS from Vercel: To=7799607940, Text=ZlI2JuvR8svcpvJxu4hb14r9cxGP1lZ2U1TUy3JuQObGSEpfUzuUw5MPETCzWXYL3MaEzP/3EMfQcRHMrfY+BQ==
+2026-06-25 15:01:47,042 [INFO] Successfully forwarded SMS to Profex: To=7799607940
+2026-06-25 15:06:24,174 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:06:24,174 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=IDWsVCtP8RC1O/5XdBRJI6281MWVM2kBlmhl4aLGOAECOWPvCgkKAWsGP8aGh1pgKZIL4P0VQs+f8Kou6T0Izw==
+2026-06-25 15:06:24,798 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-25 15:06:29,122 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:06:29,122 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=paakEnlep/XKu59DgjmjEEA1dfjc+/GXxg23p0LlLLPi+kNttmqF0s92lPk1b1PIcDP/gANlFZHGkVfY6hZK1Q==
+2026-06-25 15:06:29,416 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-25 15:08:54,431 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:08:54,431 [INFO] Forwarding SMS from Vercel: To=8291154718, Text=mUXwa01toJr7pjZcKkGz8vCkahWWZrfzZdfQjL56JjJGlqlSCxQPtos7nuq8H8pqLIllboZ/ARatoNaJtWdZ7g==
+2026-06-25 15:08:54,725 [INFO] Successfully forwarded SMS to Profex: To=8291154718
+2026-06-25 15:17:32,663 [ERROR] Error in Vercel polling loop: 
+2026-06-25 15:21:46,461 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:21:46,461 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=oMz2/rxsnJkuDfT9pUxDkUlN5CUZlhc2CvQTZEm89LRiSaGHbzA6dw0B1hufJcg/LIllboZ/ARatoNaJtWdZ7g==
+2026-06-25 15:21:46,756 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-25 15:32:09,516 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:32:09,518 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=gjPo1dv8JFI0SJH/0sqp8PvU4HGMMesLSuKgNTO51c8SXo3fIt9GgYIZKzMxEj3zKZIL4P0VQs+f8Kou6T0Izw==
+2026-06-25 15:32:10,133 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-25 15:32:19,101 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:32:19,101 [INFO] Forwarding SMS from Vercel: To=8291154718, Text=sNbjs/egVJbFmK6NiCFLokH8hXxPpVW+BX99JX27ULkAI3LYkpp0l/lDq1jY93wIKZIL4P0VQs+f8Kou6T0Izw==
+2026-06-25 15:32:19,386 [INFO] Successfully forwarded SMS to Profex: To=8291154718
+2026-06-25 15:32:31,059 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:32:31,059 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=LtUD/6ssP20U8WbCFwl/yuu/4wCwXmkzYEP6MB4WKhWgpC8azKiJQ07evXmDsbdeLh5/H8hQcfsKci8SJDD0IQ==
+2026-06-25 15:32:31,344 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-25 15:36:50,615 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:36:50,615 [INFO] Forwarding SMS from Vercel: To=7416652288, Text=MmHPdJPX9JSxQKnkxPkx+d4b7q30MP+l83xPndcUghJG8cJB3N7g30UxvAT/14C4dUxtGuos0nFiQn2iUxcUAQ==
+2026-06-25 15:36:51,219 [INFO] Successfully forwarded SMS to Profex: To=7416652288
+2026-06-25 15:37:45,879 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:37:45,879 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=DHR7ykQ567YwSqo1OauGtD8N0Y+Ia5rEpREUG3VMuiT+pLm4O0edh/13Mm/GIK1RKZIL4P0VQs+f8Kou6T0Izw==
+2026-06-25 15:37:46,167 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-25 15:38:05,126 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:38:05,126 [INFO] Forwarding SMS from Vercel: To=8291154628, Text=q1Bk356odVfUmRpnFPcASFcQNP41NiiRmh1rlRXhXbJ+rlhQlCaqaGCegpR8i8gEcDP/gANlFZHGkVfY6hZK1Q==
+2026-06-25 15:38:05,418 [INFO] Successfully forwarded SMS to Profex: To=8291154628
+2026-06-25 15:38:55,230 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:38:55,230 [INFO] Forwarding SMS from Vercel: To=9160012192, Text=lPfDGuj21E7mmndmB04vE0RIdDO6CFgig/NNBFVCowaJ8ZAVW+0Obi82GG91ou7NKZIL4P0VQs+f8Kou6T0Izw==
+2026-06-25 15:38:55,518 [INFO] Successfully forwarded SMS to Profex: To=9160012192
+2026-06-25 15:39:33,670 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:39:33,670 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=f262vuHfn32HyslsA3dzCOH5RcBNU3cTXkoko1kYQFr58uUo5fuilKVLsFWO4kqFt+igGwWKa8QXgz0MXYOzIQ==
+2026-06-25 15:39:33,960 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-25 15:39:38,392 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:39:38,393 [INFO] Forwarding SMS from Vercel: To=7799607940, Text=9IHUtpdDTaLwqJ9+fFscTR0his/TCEUFUeU9yR1JeslqtnJ0B43EbVGVXRiFM6lBKZIL4P0VQs+f8Kou6T0Izw==
+2026-06-25 15:39:38,679 [INFO] Successfully forwarded SMS to Profex: To=7799607940
+2026-06-25 15:49:02,735 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:49:02,735 [INFO] Forwarding SMS from Vercel: To=8291154628, Text=BZpgkSGkvNHdn0shoA2xw8OaeJ2hJVWu2ycRxw4ktDO9Am1alOvmPwrkvPevNZ19KZIL4P0VQs+f8Kou6T0Izw==
+2026-06-25 15:49:03,366 [INFO] Successfully forwarded SMS to Profex: To=8291154628
+2026-06-25 15:49:13,629 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:49:13,629 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=x2Mr6GhjF8hM7FUXet0/H09iAi4NDDRDuJaCFFuUkCcvKoHmmyeXf0izhJCPEtdPLIllboZ/ARatoNaJtWdZ7g==
+2026-06-25 15:49:13,914 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-25 15:49:27,108 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:49:27,108 [INFO] Forwarding SMS from Vercel: To=7416652288, Text=NLV0oy++fe//BoSOrbtQ1XWkmkEki9BQjDq0UW3iQJyWOhTo3BeqUTJkpAT2WgctLh5/H8hQcfsKci8SJDD0IQ==
+2026-06-25 15:49:27,393 [INFO] Successfully forwarded SMS to Profex: To=7416652288
+2026-06-25 15:56:50,216 [INFO] Initialized Vercel cursor to timestamp 1782382765797 without sending 100 historical messages.
+2026-06-25 15:58:07,813 [INFO] Fetched 1 new records from Vercel
+2026-06-25 15:58:07,813 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=lDhdBOwwG3qgsFO2R+VxwNWRZKRrom17Syicx/evMSHuCZ1tkZa7G8ve4RxwLuHrcDP/gANlFZHGkVfY6hZK1Q==
+2026-06-25 15:58:08,108 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-25 16:00:20,665 [ERROR] Error in Vercel polling loop: 
+2026-06-25 16:01:07,656 [ERROR] Error in Vercel polling loop: 
+2026-06-25 16:06:49,840 [INFO] Fetched 1 new records from Vercel
+2026-06-25 16:06:49,842 [INFO] Forwarding SMS from Vercel: To=8291154718, Text=toq8WHQ8VeAAOQ9WAqlUnwOiEXXK6IKuuBKwg4j/Ww8sBLWr90Fs7yaJ3CGqPZbRLh5/H8hQcfsKci8SJDD0IQ==
+2026-06-25 16:06:50,140 [INFO] Successfully forwarded SMS to Profex: To=8291154718
+2026-06-25 16:07:04,632 [INFO] Fetched 1 new records from Vercel
+2026-06-25 16:07:04,632 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=NFBWgoM1jCUL3T1d+mWihzzrXA/1FARBOWCJB9vBKeQQvaNQwfzwgi9HM9g8ldmOLIllboZ/ARatoNaJtWdZ7g==
+2026-06-25 16:07:04,936 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-25 17:56:46,668 [ERROR] Error in Vercel polling loop: 
+2026-06-25 17:56:58,663 [ERROR] Error in Vercel polling loop: 
+2026-06-25 18:00:44,661 [ERROR] Error in Vercel polling loop: 
+2026-06-25 18:01:51,658 [ERROR] Error in Vercel polling loop: 
+2026-06-25 19:22:17,762 [INFO] Initialized Vercel cursor to timestamp 1782395535791 without sending 1 historical messages.
+2026-06-25 19:23:09,994 [INFO] Fetched 1 new records from Vercel
+2026-06-25 19:23:09,995 [INFO] Forwarding SMS from Vercel: To=7799607940, Text=JZrGvXrLIprbPjdcafNw136KJb6lxWdjMy/OUid9IH3H+VhJWkTtsaFxH31np2P9cDP/gANlFZHGkVfY6hZK1Q==
+2026-06-25 19:23:10,291 [INFO] Successfully forwarded SMS to Profex: To=7799607940
+2026-06-25 19:25:44,703 [INFO] Fetched 1 new records from Vercel
+2026-06-25 19:25:44,703 [INFO] Forwarding SMS from Vercel: To=7799792957, Text=1ev8JQHUq5D+HXYrcpjF3twIRgdhTq7YlxbvqnNJ4j2mbRcV6ulBZszmGCkGV2od3pCjVMgochKMlv+uRlNZNA==
+2026-06-25 19:25:45,303 [INFO] Successfully forwarded SMS to Profex: To=7799792957
+2026-06-25 19:31:30,556 [INFO] Fetched 1 new records from Vercel
+2026-06-25 19:31:30,557 [INFO] Forwarding SMS from Vercel: To=7416652288, Text=ZqzIiG9swZ2RV9VFmQVq8lIOWA+AJozqpvSIROubCeW+G1BFOet9D1umQxb5YF0wKZIL4P0VQs+f8Kou6T0Izw==
+2026-06-25 19:31:31,179 [INFO] Successfully forwarded SMS to Profex: To=7416652288
+2026-06-25 19:33:34,209 [INFO] Fetched 1 new records from Vercel
+2026-06-25 19:33:34,209 [INFO] Forwarding SMS from Vercel: To=7799022371, Text=TzQciAu8gH1mR8Ij8PRi+vpjGXCIDYPaJaNQo4XQSLlcmB1bxoJGguFyJazvNSQ9KZIL4P0VQs+f8Kou6T0Izw==
+2026-06-25 19:33:34,509 [INFO] Successfully forwarded SMS to Profex: To=7799022371
+2026-06-25 20:00:00,259 [INFO] Fetched 1 new records from Vercel
+2026-06-25 20:00:00,260 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=Job+lKF5F/2vh6Keq9zHgXS2gIn5JR1j3Ks8AntuodCu+DTQBEx/32vor04EYEV53pCjVMgochKMlv+uRlNZNA==
+2026-06-25 20:00:00,881 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-25 20:00:18,667 [ERROR] Error in Vercel polling loop: 
+2026-06-25 20:00:20,246 [INFO] Fetched 1 new records from Vercel
+2026-06-25 20:00:20,246 [INFO] Forwarding SMS from Vercel: To=9160012192, Text=dPwgmr3GtHiPJdKd1+PNrgz3EWYsOH3XTvqrIq5xhVd7M3lVm59QH3cztdX9rUrrdUxtGuos0nFiQn2iUxcUAQ==
+2026-06-25 20:00:20,535 [INFO] Successfully forwarded SMS to Profex: To=9160012192
+2026-06-25 20:01:00,658 [ERROR] Error in Vercel polling loop: 
+2026-06-25 20:01:02,191 [INFO] Fetched 1 new records from Vercel
+2026-06-25 20:01:02,191 [INFO] Forwarding SMS from Vercel: To=8977509618, Text=alwfUpFhxkn92teeCDbSNDJLhLlRHWAyes1YTFXz6SgAMFnoRWUZpOkvPR1oIHDfcDP/gANlFZHGkVfY6hZK1Q==
+2026-06-25 20:01:02,491 [INFO] Successfully forwarded SMS to Profex: To=8977509618
+2026-06-25 20:01:50,088 [INFO] Fetched 1 new records from Vercel
+2026-06-25 20:01:50,088 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=W9UA1l7tAj/9DYFy10orKGqYAwbwZZ1Wwo3j9O3hjdmNB/RwO55By4RzDYe9+xXat+igGwWKa8QXgz0MXYOzIQ==
+2026-06-25 20:01:50,376 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-25 20:02:24,652 [ERROR] Error in Vercel polling loop: 
+2026-06-25 20:02:25,660 [WARNING] Error fetching path devices: 
+2026-06-25 20:29:46,229 [INFO] Fetched 1 new records from Vercel
+2026-06-25 20:29:46,231 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=itf6oIzE6rTRNWOk9CTOzBl0wij7o6BST7eMZ/8uO30ZPqsMPUZhMSNbOTKDGe+/t+igGwWKa8QXgz0MXYOzIQ==
+2026-06-25 20:29:46,316 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-25 20:30:14,118 [INFO] Fetched 1 new records from Vercel
+2026-06-25 20:30:14,118 [INFO] Forwarding SMS from Vercel: To=8291154721, Text=XSKjqCjskkJA4gmCT8zIpho+KWhTmbJqleRaA0WgCSbbUJWr65mruZPeqTHnByL9dUxtGuos0nFiQn2iUxcUAQ==
+2026-06-25 20:30:14,198 [INFO] Successfully forwarded SMS to Profex: To=8291154721
+2026-06-25 20:30:56,688 [INFO] Fetched 1 new records from Vercel
+2026-06-25 20:30:56,689 [INFO] Forwarding SMS from Vercel: To=7799022371, Text=Zs8wiPWRDGSKLDgBgrE/EX9AbifrDtGtcv4rBzkkqrUEopxPrRlahXQ/gonYKAJ7KZIL4P0VQs+f8Kou6T0Izw==
+2026-06-25 20:30:56,767 [INFO] Successfully forwarded SMS to Profex: To=7799022371
+2026-06-25 20:31:56,606 [INFO] Fetched 1 new records from Vercel
+2026-06-25 20:31:56,606 [INFO] Forwarding SMS from Vercel: To=7799022371, Text=br02wL8rhr/F50AMXcu5WoXpCGoC+aZ1zPzhwF47xE1VuRJD4LKhCBekYVw1IsT9LIllboZ/ARatoNaJtWdZ7g==
+2026-06-25 20:31:56,786 [INFO] Successfully forwarded SMS to Profex: To=7799022371
+2026-06-25 20:32:23,019 [INFO] Fetched 1 new records from Vercel
+2026-06-25 20:32:23,019 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=hLy5MGFoyPkBpDP+L/FKMdBB2d9RLdqQ+c9tT1Kyif0pLzB6AEFg+RAttyvChpoBLIllboZ/ARatoNaJtWdZ7g==
+2026-06-25 20:32:23,097 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-27 18:02:53,874 [INFO] Application startup complete.
+2026-06-27 18:02:53,875 [INFO] Vercel SMS Polling loop started
+2026-06-27 18:03:28,092 [INFO] Initialized Vercel cursor to timestamp 1782563225048 without sending 9 historical messages.
+2026-06-27 18:04:18,471 [INFO] Fetched 1 new records from Vercel
+2026-06-27 18:04:18,472 [INFO] Forwarding SMS from Vercel: To=7799041797, Text=ZygqtXHQZNPVNUuaaGf/Wy1IPVCPDbWyyNPs9e7f9w5xIzb5bCgevmu2ztgDSTwKdUxtGuos0nFiQn2iUxcUAQ==
+2026-06-27 18:04:19,178 [INFO] Successfully forwarded SMS to Profex: To=7799041797
+2026-06-27 18:20:50,969 [ERROR] Error in Vercel polling loop: 
+2026-06-27 18:20:52,996 [WARNING] Error fetching path devices: Connection timeout to host https://bkc57-6d601-default-rtdb.firebaseio.com/devices.json?auth=AIzaSyCI4vwmkmtHgvi0Cy9aqVpA_HNQl_oPA0I
+2026-06-27 18:20:56,011 [WARNING] Error fetching path device_registry: Connection timeout to host https://bkc57-6d601-default-rtdb.firebaseio.com/device_registry.json?auth=AIzaSyCI4vwmkmtHgvi0Cy9aqVpA_HNQl_oPA0I
+2026-06-27 18:20:59,024 [WARNING] Error fetching path clients: Connection timeout to host https://bkc57-6d601-default-rtdb.firebaseio.com/clients.json?auth=AIzaSyCI4vwmkmtHgvi0Cy9aqVpA_HNQl_oPA0I
+2026-06-27 18:21:01,061 [WARNING] Error fetching path device_status: Cannot connect to host bkc57-6d601-default-rtdb.firebaseio.com:443 ssl:default [getaddrinfo failed]
+2026-06-27 18:21:02,974 [ERROR] Error in Vercel polling loop: 
+2026-06-27 18:21:03,990 [ERROR] Error in Vercel polling loop: Cannot connect to host vercelsmsviewer.vercel.app:443 ssl:default [getaddrinfo failed]
+2026-06-27 18:47:38,961 [ERROR] Error in Vercel polling loop: 
+2026-06-27 18:47:50,972 [ERROR] Error in Vercel polling loop: 
+2026-06-27 18:47:52,986 [WARNING] Error fetching path devices: Connection timeout to host https://bkc57-6d601-default-rtdb.firebaseio.com/devices.json?auth=AIzaSyCI4vwmkmtHgvi0Cy9aqVpA_HNQl_oPA0I
+2026-06-27 18:47:55,993 [WARNING] Error fetching path device_registry: Connection timeout to host https://bkc57-6d601-default-rtdb.firebaseio.com/device_registry.json?auth=AIzaSyCI4vwmkmtHgvi0Cy9aqVpA_HNQl_oPA0I
+2026-06-27 18:47:58,999 [WARNING] Error fetching path clients: Connection timeout to host https://bkc57-6d601-default-rtdb.firebaseio.com/clients.json?auth=AIzaSyCI4vwmkmtHgvi0Cy9aqVpA_HNQl_oPA0I
+2026-06-27 18:48:02,012 [WARNING] Error fetching path device_status: Connection timeout to host https://bkc57-6d601-default-rtdb.firebaseio.com/device_status.json?auth=AIzaSyCI4vwmkmtHgvi0Cy9aqVpA_HNQl_oPA0I
+2026-06-27 18:48:02,971 [ERROR] Error in Vercel polling loop: 
+2026-06-27 18:48:14,966 [ERROR] Error in Vercel polling loop: 
+2026-06-27 18:48:26,971 [ERROR] Error in Vercel polling loop: 

@@ -37,12 +37,12 @@ except ImportError:
 
 try:
     import aiohttp
-from fastapi import FastAPI
-import uvicorn
-
+    from fastapi import FastAPI
+    import uvicorn
 except ImportError:  # pragma: no cover
     aiohttp = None
-
+    FastAPI = None
+    uvicorn = None
 
 router = Router()
 
